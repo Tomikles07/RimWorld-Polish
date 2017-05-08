@@ -2943,7 +2943,8 @@ Wygrał kilka przeciętnych, lokalnych turniejów ery 16-bitowej. Nikt nie dostr
 		<titleShort>Serwisant</titleShort>
 		<desc>Z dwiema zdrowymi rękami, i z pasją do techniki, NAME miał ambicję być wynalazcą gadżetów i urządzeń, które zmienią świat jego narodzin.
 		
-Po kilku, czasem katastrofalnych porażkach, porzucił swoje marzenie i zatrudnił się na stanowisku bardziej odpowiednim dla jego poziomu umiejętności.</desc>
+Po kilku, czasem katastrofalnych porażkach, porzucił swoje marzenie i zatrudnił się na stanowisku bardziej odpowiednim dla jego poziomu umiejętności.
+</desc>
 	</ToasterRepairman81>
 	<WolfPackMember79>
 		<title>Członek watahy</title>
@@ -2957,6 +2958,7 @@ HECAP nauczył się skutecznie walczyć zębami i pazurami, poznał też brutaln
 		<titleShort>Naukowiec</titleShort>
 		<desc>Schwytany jako dzikie dziecko, NAME został siłą przywrócony na łono społeczeństwa. Szybko zaadaptował się i został baddaczem behawioryzmu, ostatecznie dorabiając się własnej placówki naukowej.
 	
+
 HECAP specjalizował się w psowatych, jednak posiadał szeroką wiedzę o wszystkich zwierzętach, Nigdy jednakże nie interesowały go rośliny.</desc>
 	</BehaviourResearch99>
 <Cadet99>
@@ -2974,7 +2976,7 @@ NAME musiał ćwiczyć musztrę codziennie, HIS pokój musiał być utrzymany w 
 Przez cały ten czas pozostawał w nieufności w stosunku do innych ludzi. I nigdy nie przyjmował od nikogo rozkazów.</desc>
 	</Flaneur73>
 	<ShipTechnician62><!-- possible gender specyfic backstory (female) !-->
-		<title>Technik pokładowy</title>
+		<title>Technik pokładowy</title><
 		<titleShort>Technik</titleShort>   
 		<desc>NAME odbywała przysposobienie do służby na stanowisku technika pokładowego na statkach handlowych kursującyh między planetami i stacjami jej rodzinnego systemu. W swojej pracy nauczyła się serwisowania i udoskonalania wielu typów maszyn. In this job, she learned to fix and improve many machines.
 Czasami jej statek był delegowany do krótkich wypadów eksploracyjnych w niebezpiecznych sektorach przestrzeni kosmicznej.</desc>
@@ -3016,14 +3018,16 @@ Podróżuje HE między społecznościami i prowadzi terapię za pomocą medycyny
 <WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
 		<title>Przemierzający pustkowie</title>
 		<titleShort>Wędrowiec</titleShort>
-		<desc>NAME urodził się w bogatej rodzinie na pustynnym świecie, ale ta sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
+		<desc>Born into a wealthy family on a desert world, NAME was cast out after a hired attack squad destroyed his ancestral home.
+NAME urodził się w bogatej rodzinie na pustynnym świecie, ale sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
 
 Chłopcu udało się ukryć w kanałach klimatyzacyjnych przebiegających pod rodzinną posiadłością. Poprzysięgając zemstę na mordercach i zleceniodawcy, kimkolwiek by nie był, Lucas samotnie wyruszył na pustkowie.</desc>
 	</WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
 	<VoidspaceRaider8>
 		<title>Międzygwiezdny najeźdzca</title>
 		<titleShort>Najeźdzca</titleShort>
-		<desc>Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, zaproponowano HIM członkostwo w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystaje, w nadziei na odnalezienie poszukiwanego.
+		<desc>After years of seeking the assassin that broke up his family, NAME was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.
+Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, zaproponowano HIM członkostwo w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystaje, w nadziei na odnalezienie poszukiwanego.
 
 Z powodu bezgranicznych, zdaje się, umiejętności ucieczki przed zagrożeniem w ostatniej chwili, przechrzczono HIM 'Blackjack', w uznaniu HIS szczęścia.</desc>
 	</VoidspaceRaider8>-->
@@ -3199,68 +3203,67 @@ Po raz pierwszy w życiu nie miał żadnych rozkazów, żadnych celów. Wyrósł
 			
 Niestety, monotonna praca całkowicie pozbawiła HIM jakiejkolwiek kreatywności.</desc>
 	</CorporateBuilder80>
-<!--
 	<UrbworldUrchin35>
-		<title>Urbworld urchin</title>
-		<titleShort>Urchin</titleShort>
-		<desc>Abandoned among the filthy concrete spires, NAME never knew HIS parents. HECAP never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes HE lied, cheated, and stole to survive.</desc>
+		<title>Urbworldzki łobuz</title>
+		<titleShort>Ulicznik/titleShort>
+		<desc>Porzucony pośród brudnych betonowych iglic, NAME nigdy nie poznał swoich rodziców. Nigdy też nie otrzymał formalnej edukacji i często sytuacja zmuształa go do podjęcia prostej pracy w zamian za pożywienie. Czasami by przetrwać, uciekał się HE do oszustw, zdrady i kradzieży.</desc>
 	</UrbworldUrchin35>
 	<VoidRaider31>
-		<title>Void raider</title>
-		<titleShort>Raider</titleShort>
-		<desc>Craving adventure and glory, NAME set out across the void with a raider band, swearing his loyalty to his band and brothers, and spreading their glory through the stars with his blade and pistol in hand.</desc>
+		<title>Międzygwiezdny najeźdzca</title>
+		<titleShort>Najeźdzca/titleShort>
+		<desc>Pragnąc przygody i sławy, NAME stawił czoła międzygwiezdnej pustce razem ze swoją bandą, przyrzekając lojalność jej oraz swoim braciom w broni, i rozpowszechniał ich chwałę wśród gwiazd z mieczem i pistoletem w dłoni.</desc>
 	</VoidRaider31>
 	<FallenOfficial20>
-		<title>Fallen official</title>
-		<titleShort>Official</titleShort>
-		<desc>NAME was an official for an autocratic government.
-When HIS superiors demanded HE participate in atrocities, NAME resigned and escaped from HIS homeworld with nothing but the clothes on HIS back.</desc>
+		<title>Upadły urzędnik</title>
+		<titleShort>Urzędnik</titleShort>
+		<desc>NAME był przedstawicielem autokratycznego rządu.
+		Gdy HIS przełożeni zaczęli wymagać, by partycypował w zbrodniczych działaniach, NAME złożył urząd i uciekł z rodzinnej planety mając ze sobą jedynie swój garnitur.</desc>
 	</FallenOfficial20>
 	<MarineCadet8>
-		<title>Marine cadet</title>
-		<titleShort>Cadet</titleShort>
-		<desc>NAME was in a planetary marine cadet program.
-HECAP was kicked out for shooting an officer. It was never established whether this was an accident.</desc>
+		<title>Kadet marine</title>
+		<titleShort>Kadet</titleShort>
+		<desc>NAME uczestniczył w programie kadetów planetarnych marines.
+Wyrzocono HIM z niego za postrzelenie oficera. Nigdy nie ustalono, czy był to wypadek.</desc>
 	</MarineCadet8>
 	<ClanChief70>
-		<title>Clan chief</title>
+		<title>Szef klanu</title>
 		<titleShort>Chief</titleShort>
-		<desc>NAME managed a small criminal clan on an outlying trade hub world.</desc>
+		<desc>NAME kierował niewielkim klanem kryminalnyhm na jednym z satelickich światów przeładunkowych.</desc>
 	</ClanChief70>
-<PoorKid76>
-		<title>Poor kid</title>
-		<titleShort>Poor kid</titleShort>
-		<desc>Abandoned by his parents, NAME learned how to survive by himself before he was ten years old.</desc>
+<PoorKid76><!-- possible gender specyfic backstory (male) !-->
+		<title>Biedne dziecko</title>
+		<titleShort>Biedne dziecko</titleShort>
+		<desc>Opuszczony przez rodziców, NAME nauczył się jak samodzielnie przetrwać przed ukończeniem dziesiątego roku życia.</desc>
 	</PoorKid76>
 	<Warrior43>
-		<title>Warrior</title>
-		<titleShort>Warrior</titleShort>
-		<desc>NAME was a war hero during HIS planet's third world war. HECAP helped prevent the launch of nuclear weapons during a particularly tense standoff.</desc>
+		<title>Wojownik</title>
+		<titleShort>Wojownik</titleShort>
+		<desc>NAME został bohaterem podczas III wojny światowej na HIS ojczystym świecie. HECAP pomógł zatrzymać strony konfliktu przed użyciem broni nuklearnej w krytycznym momencie impasu.</desc>
 	</Warrior43>
-	<KidScientist80>
-		<title>Kid scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Born into an influential family, NAME received the best education money could buy. Her intellect soon proved to be superior to many. However, her lack of empathy quickly put her at odds with her teachers and her parents.</desc>
+	<KidScientist80><!-- possible gender specyfic backstory (female) !-->
+		<title>Mały naukowiec</title>
+		<titleShort>Naukowiec</titleShort>
+		<desc>Urodzona we wpływowej rodzinie, NAME otrzymała najlepsze wykształcenie, za jakie można było zapłacić. Jej inteligencja szybko zdominowała otoczenie. Jakkolwiek, przez wrodzony deficyt empatii szybko popadła w konflit zarówno z kadrą nauczycielską, jak i rodzicami.</desc>
 	</KidScientist80>
-	<MadScientist65>
-		<title>Mad scientist</title>
-		<titleShort>Scientist</titleShort>
-		<desc>After finishing her education, NAME was hired by the planet's leading genetic researcher. Later, she was caught running illegal, inhumane experiments.
-Despite her family's influence, she was convicted and sentenced to hard labor on a penal colony.</desc>
+	<MadScientist65><!-- possible gender specyfic backstory (female) !-->
+		<title>Szalony naukowiec</title>
+		<titleShort>Naukowiec</titleShort>
+		<desc>Po zakończeniu edukacji, NAME została zatrudniona przez planetarnego lidera badań genetycznych. Później, przyłapano ją prowadzeniu nielegalnych, nieludzkich eksperymentów.
+Pomimo tego, że HIS rodzina próbowała interweniować, została osądzona i skazana na ciężkie prace w kolonii karnej.</desc>
 	</MadScientist65>
 	<YouthSoldier75>
 		<title>Youth soldier</title>
 		<titleShort>Soldier</titleShort>
-		<desc>Born to a long line of soldiers, NAME joined a military training program.
-HECAP excelled in physical training, and even passed most of the intellectual exams. While HE was never particularly bright or nimble, NAME learned the value of hard work and suffering.</desc>
+		<desc>Zrodzony z długiej linii żołnierzy, NAME wstąpił do programu przysposobienia wojskowego.
+HECAP celował w zajęciach fizycznych, a nawet zdał większość egzaminów sprawdzających inteligencję. Mimo że nie był nigdy szczególnie bystry, NAME nauczył się doceniać wartość ciężkiej pracy i niedoli.</desc>
 	</YouthSoldier75>
 	<SpaceMarine48>
-		<title>Space marine</title>
+		<title>Kosmiczny marine</title>
 		<titleShort>Marine</titleShort>
-		<desc>NAME was a warrior in an Imperial navy.
-HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</desc>
+		<desc>NAME był wojownikiem w marynarce Imperium.
+HISCAP specjalność to brawurowy abordaż, eliminacja załogi i przechwycenie nietkniętego statku kosmicznego. I był w tym dobry.</desc>
 	</SpaceMarine48>
-	<DataDecoder25>
+	<!--DataDecoder25>
 		<title>Data decoder</title>
 		<titleShort>Decoder</titleShort>
 		<desc>Born on a glitterworld, NAME was very interested  in the process of documenting information, and quickly became senior glitterpedia recorder.
