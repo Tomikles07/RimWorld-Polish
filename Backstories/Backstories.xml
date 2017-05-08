@@ -13,7 +13,7 @@ Takie życie wymaga bycia mistrzem w każdym podstawowym zadaniu.</desc>
 		<titleShort>Plebejusz</titleShort>
 		<desc>Uprawa ziemi, motykowanie, bycie woźnicą, pchanie taczek. Kopanie rowów, sadzenie roślin, przewidywanie przyszłorocznych zbiorów...
 
-Chociaż starodawni rolnicy nie byli wyedukowani w dzisiejszym rozumieniu, wiedzą bardzo dużo na temat klasycznej uprawy roślin metodami znanymi ludziom od zarania dziejów. Tak odizolowane od realiów dzisiejszego życia jednostki jak NAME nie są w stanie zajmować się rzeczami wymagającymi zdolności intelektualnych czy nowoczesnych technologii.</desc>
+Chociaż starodawni rolnicy nie byli wyedukowani w dzisiejszym rozumieniu, wiedzą bardzo dużo na temat klasycznej uprawy roślin metodami znanymi ludziom od zarania dziejów. Tak odizolowane od realiów dzisiejszego życia jednostki jak NAME, nie są w stanie zajmować się rzeczami wymagającymi zdolności intelektualnych czy nowoczesnych technologii.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
 		<title>Władca feudalny</title>
@@ -348,7 +348,8 @@ Musiał HE poznać wszystkie zasady panujące w domu pana, ale nigdy nie pracowa
 		<desc>Praca NAME polegała na natychmiastowym odpowiadaniu na zgłoszenia medyczne. Jest przyzwyczajony do radzenia sobie z różnymi ranami, mając do dyspozycji ograniczone możliwości lecznicze.
 
 		Wyleczył tak wiele ran postrzałowych, że sam widok broni sprawia, że robi mu się... dziwnie.</desc>
-	</Paramedic85>
+	</Paramedic85>	
+
 	<Castaway74>
 		<title>Rozbitek</title>
 		<titleShort>Rozbitek</titleShort>
@@ -2771,7 +2772,7 @@ Nauczył się śledzić i łapać każde zwierzę w nawet najbardziej niebezpiec
 	<ProjectSubject48>
 		<title>Uczestnik projektu</title>
 		<titleShort>Uczestnik</titleShort>
-		<desc>NAME został wybrany przez agentów rządowych do tajemniczego "Projektu Strukturalnego".
+		<desc>NAME został wybrany przez agentów rządowych do tajemniczego „Projektu Strukturalnego”.
 			
 Przez blokery pamięci niestety nie pamięta on wiele na temat jego lub programu - jedynie tyle, że tylko kilka osób przeżyło.</desc>
 	</ProjectSubject48>
@@ -2897,9 +2898,7 @@ HISCAP prestiżowa pozycja odsunęła go od wymagających prac fizycznych, pozwa
 	<ApprenticeSmith9>
 		<title>Praktykant kowalstwa</title>
 		<titleShort>Praktykant</titleShort>
-		<desc>NAME dorastał, pomagając w warsztacie ojca.
-			
-Byli jednymi z ostatnich kowalów, którzy wykorzystywali tradycyjne metody. Niektóre materiały zbierali samodzielnie.
+		<desc>NAME dorastał, pomagając w warsztacie ojca. Byli jednymi z ostatnich kowali, którzy wykorzystywali tradycyjne metody. Niektóre materiały zbierali samodzielnie.
 			
 Czasami, po pracy, NAME ćwiczył, wykorzystując miecze, które wykuł.</desc>
 	</ApprenticeSmith9>
@@ -2908,7 +2907,17 @@ Czasami, po pracy, NAME ćwiczył, wykorzystując miecze, które wykuł.</desc>
 		<titleShort>Kowal</titleShort>
 		<desc>Jako kowal na starodawnym świecie NAME zdobył reputację za świetną jakość prac. Nie był też zły w używaniu tego, co wykuł.</desc>
 	</Blacksmith32>
-	<MilitantChild30>
+	<CloneFarmed43>
+		<title>Klon z farmy</title>
+		<titleShort>Jednorazowy</titleShort>
+		<desc>Dzieci-klony są zagnieżdżane w syntetycznych macierzach bogatych w składniki odżywcze i gwałtownie dojrzewają w symulowanej rzeczywistości. Później przychodzi czas na żniwa - jedne są używane w celach żywieniowych, inne w celu zaspokojenia popytu na organy, niektóre zaś jako siła robocza - wszystkie jednak nazywa się "Jednorazowymi".</desc>
+	</CloneFarmed43>
+	<CloneFarmer72>
+		<title>Farmer klonów</title>
+		<titleShort>Kloner</titleShort>
+		<desc>Zbieranie produktów farm klonów wykonywane jest w większości przez same klony - w szczególności przez te, które wykazują pewne skłonności sprzyjające socjalizacji. Ten klon był właśnie jednym z tych, którym udało się uciec z farmy i skierować wzrok ku gwiazdom.</desc>
+	</CloneFarmer72>-->
+<MilitantChild30>
 		<title>Dziecko militarysty</title>
 		<titleShort>Żołnierz</titleShort>
 		<desc>Militarystycza rodzina NAME zmuszała HIM do trenowania walki wręcz i taktyki w starciach.
@@ -2922,116 +2931,102 @@ Czas wolny upływał NAME na pracy nad swoimi małymi innowacjami. To wyostrzył
 
 Później pojawił się ponownie na czele swojej własnej jednostki wojskowej. Nikt nie wiedział, dlaczego został tym, kim był.</desc>
 	</LostMarine68>
-	<ProfessionalGamer86>
+<ProfessionalGamer86>
 		<title>Profesjonalny gracz</title>
 		<titleShort>Progamer</titleShort>
 		<desc>NAME miał obsesję na punkcie gier wideo, odkąd jego ręce były na tyle duże, by chwycić za joystick.
 
-Wygrał kilka przeciętnych, lokalnych turniejów ery 16-bitowej. Nikt nie dostrzegł, kiedy przedwcześnie przeszedł na emeryturę w wieku kilkunastu lat.</desc>
+Wygrał kilka przeciętnych, lokalnych turniejów ery 16-bitowej. Nikt nie dostrzegł, kiedy przedwcześnie przeszedł na emeryturę w wieku kilkunastu lat. </desc>
 	</ProfessionalGamer86>
-	<!--
 	<ToasterRepairman81>
-		<title>Toaster repairman</title>
-		<titleShort>Repairman</titleShort>
-		<desc>Good with his hands and passionate about technology, NAME aspired to invent gadgets and machines that would change his home world forever.
-
-A few failed and occasionally disastrous creations later, he gave up on his dream and took a job more befitting his skill set.</desc>
+		<title>Serwisant tosterów</title>
+		<titleShort>Serwisant</titleShort>
+		<desc>Z dwiema zdrowymi rękami, i z pasją do techniki, NAME miał ambicję być wynalazcą gadżetów i urządzeń, które zmienią świat jego narodzin.
+		
+Po kilku, czasem katastrofalnych porażkach, porzucił swoje marzenie i zatrudnił się na stanowisku bardziej odpowiednim dla jego poziomu umiejętności.</desc>
 	</ToasterRepairman81>
 	<WolfPackMember79>
-		<title>Wolf pack member</title>
-		<titleShort>Feral</titleShort>
-		<desc>NAME was discarded by HIS family. Raised by wolves, HE ran, hunted, and defended HIS pack.
+		<title>Członek watahy</title>
+		<titleShort>Dzikus/titleShort>
+		<desc>Rodzina NAME wyrzekła się HIS. Wychowany prez wilki, ścigał, polował i bronił swojego stada. 
 
-HECAP learned to fight efficiently by tooth and claw. HECAP also learned brutally effective primal hunting strategies.</desc>
+HECAP nauczył się skutecznie walczyć zębami i pazurami, poznał też brutalnie skuteczne, pierwotne strategie polowania.</desc>
 	</WolfPackMember79>
 	<BehaviourResearch99>
-		<title>Behaviour research</title>
-		<titleShort>Scientist</titleShort>
-		<desc>Captured as a feral child, NAME was forced into the ways of modern society. HECAP quickly adapted and became a behavioural researcher, eventually owning a private facility.
-
-HECAP specialized in canines, but learned a great deal about all animals. HECAP never had interest in plants, however.</desc>
+		<title>Behawiorysta</title>
+		<titleShort>Naukowiec</titleShort>
+		<desc>Schwytany jako dzikie dziecko, NAME został siłą przywrócony na łono społeczeństwa. Szybko zaadaptował się i został baddaczem behawioryzmu, ostatecznie dorabiając się własnej placówki naukowej.
+	
+HECAP specjalizował się w psowatych, jednak posiadał szeroką wiedzę o wszystkich zwierzętach, Nigdy jednakże nie interesowały go rośliny.</desc>
 	</BehaviourResearch99>
 <Cadet99>
-		<title>Cadet</title>
-		<titleShort>Cadet</titleShort>
-		<desc>Born on the planet New China, NAME’s father was a police chief and kept extremely strict watch over his son.
-
-NAME had to do military-style drill exercises every day and keep his room spotlessly clean, always ready for inspection. HECAP came to abhor violence.</desc>
+		<title>Kadet</title>
+		<titleShort>Kadet</titleShort>
+		<desc>NAME urodził się na planecie Nowe Chiny, HIS ojciec był dowódcą policji i miał baczne oko na wychowanie swojego dziecka.
+		
+NAME musiał ćwiczyć musztrę codziennie, HIS pokój musiał być utrzymany w nienagannej czystości, zawsze przygotowany do ispekcji. HECAP zaczął brzydzić się przemocą.</desc>
 	</Cadet99>
 	<Flaneur73>
-		<title>Flaneur</title>
-		<titleShort>Flaneur</titleShort>
-		<desc>NAME strolled and sipped his way through the streets and cafes of HIS world, pursuing freedom at every turn, never becoming attached.
+		<title>Spacerowicz</title>
+		<titleShort>Spacerowicz</titleShort>
+		<desc>NAME włóczył się po trutuarach i kawiarniach HIS świata, pił życie małymi łyczkami , cały czas podążając za prawdziwą wolnością, do nieczego się nie przywiązując.
 
-Through all this time, HE remained distrustful of others. And never took an order from anyone.</desc>
+Przez cały ten czas pozostawał w nieufności w stosunku do innych ludzi. I nigdy nie przyjmował od nikogo rozkazów.</desc>
 	</Flaneur73>
-	<ShipTechnician62>
-		<title>Ship technician</title>
-		<titleShort>Technician</titleShort>
-		<desc>NAME was an apprentice technician on trade ships plying their routes between the stations and planets of her home system. In this job, she learned to fix and improve many machines.
-
-Sometimes, her ship was assigned to short exploratory jaunts into dangerous regions of space.</desc>
+	<ShipTechnician62><!-- possible gender specyfic backstory (female) !-->
+		<title>Technik pokładowy</title>
+		<titleShort>Technik</titleShort>   
+		<desc>NAME odbywała przysposobienie do służby na stanowisku technika pokładowego na statkach handlowych kursującyh między planetami i stacjami jej rodzinnego systemu. W swojej pracy nauczyła się serwisowania i udoskonalania wielu typów maszyn. In this job, she learned to fix and improve many machines.
+Czasami jej statek był delegowany do krótkich wypadów eksploracyjnych w niebezpiecznych sektorach przestrzeni kosmicznej.</desc>
 	</ShipTechnician62>
 	<ChiefEngineer74>
-		<title>Chief engineer</title>
-		<titleShort>Engineer</titleShort>
-		<desc>As chief engineer on board a large spaceship, NAME was an expert in all things fiddly and complex.
-
-She relied on other members of the crew for some of the basic necessities of life. She and her ship eventually disappeared into a longsleep voyage of exploration.</desc>
+		<title>Główny inżynier</title>
+		<titleShort>Inżynier</titleShort>
+		<desc>As chief engineer on board a large spaceship, NAME była ekspertką od wszystkich tych bzdurnych i skomplikowanych rzeczy.
+		Jeśli chodzi o pewne podstawowe potrzeby życiowe, polegała na innych członkach załogi. Ona jak i jej statek ostatecznie zaginęli podczas długoterminowej hibernacyjnej misji ekslporacji.</desc>
 	</ChiefEngineer74>
 	<BlacksmithsSon72>
-		<title>Blacksmith’s son</title>
-		<titleShort>Blacksmith</titleShort>
-		<desc>NAME’s father owned the blacksmith shop in an run-down old city district. NAME would help his father whenever he could.
-
-Later, HIS father took him as a blacksmith’s apprentice and raised him as a man. NAME also to on shooting as a hobby.</desc>
+		<title>Syn kowala</title>
+		<titleShort>Kowal</titleShort>
+		<desc>HESCAP ojciec posiadał warsztat kowalski w starej, podupadłej dzielnicy miasta. NAME starał się pomagać ojcu w pracy, jak tylko potrafił.
+		
+Później HIS ojciec wziął HIM na czeladnika, i nauczył bycia porządnym człowiekiem. NAME także siedzi w strzelectwie, hobbistycznie..</desc>
 	</BlacksmithsSon72>
 	<BlacksmithShooter88>
 		<title>Blacksmith shooter</title>
-		<titleShort>Gunsmith</titleShort>
-		<desc>As a young blacksmith, NAME’s family shop was raided by the police. HECAP shot two officers before they knocked him out and arrested him.
+		<titleShort>Rusznikarz</titleShort>
+		<desc>Kiedy NAME był młodym kowalem, HIS rodzinny watsztat został zaatakowany przez policję. HECAP potrzelił dwóch funkcjonariuszy, zanim został obezwładniony i aresztowany.
 
-Sentenced to life in prison, NAME learned about traveling and raiding from other criminals.</desc>
+Skazany na dożywotnie więzienie, NAME słuchał historii o podróżach i napadach od innnych kryminalistów.</desc>
 	</BlacksmithShooter88>
 	<JoywireAddict71>
-		<title>Joywire addict</title>
-		<titleShort>Addict</titleShort>
-		<desc>NAME’s wealthy parents provided everything HE ever wanted. After discovering joywires, HE became obsessed. Once HIS parents realized what happened, they cut HIM off.
+		<title>Uzależniony od implantu szczęścia</title>
+		<titleShort>Uzależniony</titleShort>
+		<desc>Dzięki bogatym rodzicom NAME miał wszystko, czego dusza zapragnie. Kiedy dowiedział się o istnieniu implantów szczęścia, dostał obsesji na ich punkcie. Kiedy HIS rodzice odkryli co się stało, odcięli HIM od funduszy.
 
-Uncaring and often violent, HE sought his next joywire fix by any means possible.</desc>
+Jeśli tylko HIS nowy implant potrzebuje update'ów, lub ulegnie usterce, NAME, z nieczułą bezwzględnością znajdzie sposób, by temu zaradzić.</desc>
 	</JoywireAddict71>
 	<AddictionCounsel61>
-		<title>Addiction counsel</title>
-		<titleShort>Counselor</titleShort>
-		<desc>After recovering from a joywire addiction, NAME adopted a non-violent way of life and vowed to help others.
-
-Travelling between communities, HE used medicine, arts, and crafts to aid others who struggled with their own addictions.</desc>
+		<title>Doradca uzależnień</title>
+		<titleShort>Doradca</titleShort>
+		<desc>Po wyjściu z uzależnienia od implantu szczęścia, NAME postanowił wieść życie bez przemocy, oraz poprzysiągł pomagać innym.
+		
+Podróżuje HE między społecznościami i prowadzi terapię za pomocą medycyny, sztuki oraz rzemiosła, by pomóc innym, którzy zmagają się z swoimi uzależnieniami.</desc>
 	</AddictionCounsel61>
-<WastelandWanderer2>
-		<title>Wasteland wanderer</title>
-		<titleShort>Wanderer</titleShort>
-		<desc>Born into a wealthy family on a desert world, NAME was cast out after a hired attack squad destroyed his ancestral home.
+<WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
+		<title>Przemierzający pustkowie</title>
+		<titleShort>Wędrowiec</titleShort>
+		<desc>NAME urodził się w bogatej rodzinie na pustynnym świecie, ale ta sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
 
-The boy managed to hide in a cooling duct beneath his family’s villa. Vowing revenge against the killers and whomever had hired them, Lucas struck out into the wasteland, alone.</desc>
-	</WastelandWanderer2>
+Chłopcu udało się ukryć w kanałach klimatyzacyjnych przebiegających pod rodzinną posiadłością. Poprzysięgając zemstę na mordercach i zleceniodawcy, kimkolwiek by nie był, Lucas samotnie wyruszył na pustkowie.</desc>
+	</WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
 	<VoidspaceRaider8>
-		<title>Voidspace raider</title>
-		<titleShort>Raider</titleShort>
-		<desc>After years of seeking the assassin that broke up his family, NAME was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.
+		<title>Międzygwiezdny najeźdzca</title>
+		<titleShort>Najeźdzca</titleShort>
+		<desc>Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, zaproponowano HIM członkostwo w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystaje, w nadziei na odnalezienie poszukiwanego.
 
-Due to HIS seemingly-unending ability to narrowly escape danger, he earned the nickname ‚Blackjack’ in recognition of his luck.</desc>
-	</VoidspaceRaider8>
-	<CloneFarmed43>
-		<title>Clone-farmed</title>
-		<titleShort>Disposable</titleShort>
-		<desc>Clone children are seeded into organic-rich wombvats and rapidly grown in a simmed universe. They’re harvested later, sometimes for food, sometimes for organs, sometimes for workers - but they’re always called ‚Disposable’.</desc>
-	</CloneFarmed43>
-	<CloneFarmer72>
-		<title>Clone farmer</title>
-		<titleShort>Cloner</titleShort>
-		<desc>Harvesting the products of clone farms is mostly done by the clones themselves -particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars.</desc>
-	</CloneFarmer72>
-	-->
+Z powodu bezgranicznych, zdaje się, umiejętności ucieczki przed zagrożeniem w ostatniej chwili, przechrzczono HIM 'Blackjack', w uznaniu HIS szczęścia.</desc>
+	</VoidspaceRaider8>-->
 	<PyroAssistant17>
 		<title>Pomocnik-piroman</title>
 		<titleShort>Pomocnik</titleShort>
@@ -3040,12 +3035,12 @@ Due to HIS seemingly-unending ability to narrowly escape danger, he earned the n
 Zawsze trochę HIM ciągnęło do ognia, lecz po pewnym nieszczęśliwym wydarzeniu wyrzucono HIM z kuchni.</desc>
 	</PyroAssistant17>
 	<MachineFixer97>
-		<title>Mechanik maszyn</title>
-		<titleShort>Mechanik</titleShort>
-		<desc>NAME stał się doświadczony w zmaganiu się z mechanicznymi problemami, przynajmniej dopóki nie dotyczyły one kuchni.
-			
-Życie spędzone wśród niebezpiecznej maszynerii i łatwopalnych substacji nauczyło HIM również całkiem dobrze się leczyć. Pomimo bólu, nigdy nie przestał lubić ognia.</desc>
-	 </MachineFixer97>
+		<title>Serwisant maszyn</title>
+		<titleShort>Serwisant</titleShort>
+		<desc>NAME jest adeptem w rozwiązywaniu problemów związanych z mechaniką, tak długo, jak długo problemy nie są związane z kuchnią.
+		
+Życie, spędzone wśród niebezpiecznej maszynerii i łatwopalnych chemikaliów nauczyło HIM, jak całkiem nieźle poskładać siebie do kupy. Pomimo bólu, ogień nadal jest tym, co NAME wciąż lubi.</desc>
+ </MachineFixer97>-->
 	<StreetUrchin39>
 		<title>Uliczny łobuz</title>
 		<titleShort>Naciągaczka</titleShort>
@@ -3077,24 +3072,24 @@ Wybierając działanie w pojedynkę, NAME doceniał dreszczyk, który towarzyszy
 		<titleShort>Goniec</titleShort>
 		<desc>NAME, urodzony na zasilanym parą midworldzie zrujnowanym przez kryzys ekonomiczny, poszedł do pracy w bardzo młodym wieku. Żebranie, polerowanie butów, szycie - ot, cała HIS historia. Jednakże najbardziej znano HIM z doręczania wymyślnych afrodyzjaków i chemikaliów dziewczynom z domu publicznego, prosto do ich pokojów.</desc>
 	</BrothelGofer60>
-	<!--<DrugLieutenant88>
-		<title>Drug lieutenant</title>
+	<DrugLieutenant88>
+		<title>Narkotykowy porucznik</title>
 		<titleShort>Drugman</titleShort>
-		<desc>NAME worked the drug trade under kingpin Grady Loughman. He had his men sell drugs when it was profitable, and fight the other cartels when the government came around.
-
-His social skills kept him on top of the political game, and he always had servants to cook and clean.</desc>
+		<desc>NAME zajmował się handlem narkotykami pod zwierzchnictwem Grady Loughman. HIS ludzie pod HIM rozkazem sprzedawali narkotyki, kiedy było to zyskowne, i walczyli z innymi kartelami, gdy przyszły agencje rządowe.
+		
+HIS zdolności socjotechniczne utrzymywały HIM na czele politycznych rozgrywek, i zawsze był ktoś, do kogo należało gotowanie i sprzątanie.</desc>
 	</DrugLieutenant88>
 	<LaborCampOrphan93>
-		<title>Labor camp orphan</title>
-		<titleShort>Orphan</titleShort>
-		<desc>NAME lost her parents in an industrial accident and grew up in an orphans’ labor camp. The camp overseers worked their charges mercilessly - but at least she was clothed and fed.</desc>
+		<title>Sierota z obozu pracy</title>
+		<titleShort>Sierota</titleShort>
+		<desc>NAME stracił rodziców w wypadku przemysłowym i dorastał w obozie pracy dla sierot. Nadzorcy obozu stosowali kary bezlitośnie - ale przynajmniej było co jeść i w co się ubrać.</desc>
 	</LaborCampOrphan93>
-	<UrbworldEnforcer55>
-		<title>Urbworld enforcer</title>
-		<titleShort>Enforcer</titleShort>
-		<desc>NAME was an enforcer of law on an ancient urbworld.
+	<UrbworldEnforcer55><!-- possible gender specyfic backstory (female) !-->
+		<title>Urbworldzki prokurator</title>
+		<titleShort>Prokurator</titleShort>
+		<desc>NAME zajmowała się egzekwowaniem prawa na jednym ze starożytnych urbworldów.
 
-She dealt with the worst of humanity, from protecting greedy urbworld nobility in their spire palaces to rooting out cannibal cults in the deepest reaches of the underground hive.</desc>
+Zetknęła się z najgorszymi cechami ludzkiej natury, podczas protekcji chciwej arystokracji z iglicowych zamków oraz wykorzeniania sekt kanibali w najgłębszych zakamarkach podziemnych osad ludzkich.</desc>
 	</UrbworldEnforcer55>-->
 	<GameFanatic49>
 		<title>Fanatyczny gracz</title>
@@ -3204,5 +3199,400 @@ Po raz pierwszy w życiu nie miał żadnych rozkazów, żadnych celów. Wyrósł
 			
 Niestety, monotonna praca całkowicie pozbawiła HIM jakiejkolwiek kreatywności.</desc>
 	</CorporateBuilder80>
+<!--
+	<UrbworldUrchin35>
+		<title>Urbworld urchin</title>
+		<titleShort>Urchin</titleShort>
+		<desc>Abandoned among the filthy concrete spires, NAME never knew HIS parents. HECAP never received formal education, and often resorted to doing menial labor in exchange for food. Sometimes HE lied, cheated, and stole to survive.</desc>
+	</UrbworldUrchin35>
+	<VoidRaider31>
+		<title>Void raider</title>
+		<titleShort>Raider</titleShort>
+		<desc>Craving adventure and glory, NAME set out across the void with a raider band, swearing his loyalty to his band and brothers, and spreading their glory through the stars with his blade and pistol in hand.</desc>
+	</VoidRaider31>
+	<FallenOfficial20>
+		<title>Fallen official</title>
+		<titleShort>Official</titleShort>
+		<desc>NAME was an official for an autocratic government.
+When HIS superiors demanded HE participate in atrocities, NAME resigned and escaped from HIS homeworld with nothing but the clothes on HIS back.</desc>
+	</FallenOfficial20>
+	<MarineCadet8>
+		<title>Marine cadet</title>
+		<titleShort>Cadet</titleShort>
+		<desc>NAME was in a planetary marine cadet program.
+HECAP was kicked out for shooting an officer. It was never established whether this was an accident.</desc>
+	</MarineCadet8>
+	<ClanChief70>
+		<title>Clan chief</title>
+		<titleShort>Chief</titleShort>
+		<desc>NAME managed a small criminal clan on an outlying trade hub world.</desc>
+	</ClanChief70>
+<PoorKid76>
+		<title>Poor kid</title>
+		<titleShort>Poor kid</titleShort>
+		<desc>Abandoned by his parents, NAME learned how to survive by himself before he was ten years old.</desc>
+	</PoorKid76>
+	<Warrior43>
+		<title>Warrior</title>
+		<titleShort>Warrior</titleShort>
+		<desc>NAME was a war hero during HIS planet's third world war. HECAP helped prevent the launch of nuclear weapons during a particularly tense standoff.</desc>
+	</Warrior43>
+	<KidScientist80>
+		<title>Kid scientist</title>
+		<titleShort>Scientist</titleShort>
+		<desc>Born into an influential family, NAME received the best education money could buy. Her intellect soon proved to be superior to many. However, her lack of empathy quickly put her at odds with her teachers and her parents.</desc>
+	</KidScientist80>
+	<MadScientist65>
+		<title>Mad scientist</title>
+		<titleShort>Scientist</titleShort>
+		<desc>After finishing her education, NAME was hired by the planet's leading genetic researcher. Later, she was caught running illegal, inhumane experiments.
+Despite her family's influence, she was convicted and sentenced to hard labor on a penal colony.</desc>
+	</MadScientist65>
+	<YouthSoldier75>
+		<title>Youth soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>Born to a long line of soldiers, NAME joined a military training program.
+HECAP excelled in physical training, and even passed most of the intellectual exams. While HE was never particularly bright or nimble, NAME learned the value of hard work and suffering.</desc>
+	</YouthSoldier75>
+	<SpaceMarine48>
+		<title>Space marine</title>
+		<titleShort>Marine</titleShort>
+		<desc>NAME was a warrior in an Imperial navy.
+HISCAP job was to punch into enemy starships, gun down the crew, and capture the ship intact. And HE was good at it.</desc>
+	</SpaceMarine48>
+	<DataDecoder25>
+		<title>Data decoder</title>
+		<titleShort>Decoder</titleShort>
+		<desc>Born on a glitterworld, NAME was very interested  in the process of documenting information, and quickly became senior glitterpedia recorder.
+HECAP was effective at self-study, but HE was lacked in social experiences.</desc>
+	</DataDecoder25>
+	<ArchotechSpy14>
+		<title>Archotech spy</title>
+		<titleShort>AI spy</titleShort>
+		<desc>NAME was a cybernetic researcher. Studying a transcended world, HE became too involved with HIS subjects. Over time, the archotech machine core recruited HIM into its service, and used HIM as a spy.
+When HE later rebelled against HIS non-human master, it sent mechanoids across space to hunt HIM down.</desc>
+	</ArchotechSpy14>
+	<DustyFarmHand63>
+		<title>Dusty farm hand</title>
+		<titleShort>Farm hand</titleShort>
+		<desc>From the time NAME could walk, HE helped take care of the animals and crops that HIS people tended in their arid homeland.
+The work toughened HIM, but left little time for intellectual activities.</desc>
+	</DustyFarmHand63>
+	<DromedaryKnight31>
+		<title>Dromedary knight</title>
+		<titleShort>Knight</titleShort>
+		<desc>Having caught the eye of HIS people's Sand King, NAME was trained in the Sandy Boomrat fighting technique.
+Always with a camel to carry his things, HE served HIS sand people faithfully.</desc>
+	</DromedaryKnight31>
+	<PlagueChild8>
+		<title>Plague child</title>
+		<titleShort>Child</titleShort>
+		<desc>Born on a world wracked by plague, both of NAME's parents were doctors. 
+NAME was raised in reverse-quarantine, under the Hippocratic oath. HECAP experienced little social interaction. However, HE gained a lot of medical experience assisting in treatments.</desc>
+	</PlagueChild8>
+	<PlagueDoctor99>
+		<title>Plague doctor</title>
+		<titleShort>Doctor</titleShort>
+		<desc>NAME provided medical care on multiple plague-wracked worlds, always working under the Hippocratic oath. HECAP improved conditions for those under quarantine while administering complex medical treatments and developing medicines.
+HECAP never had time to enjoy a normal life outside of work.</desc>
+	</PlagueDoctor99>
+	<YoungMaster70>
+		<title>Young master</title>
+		<titleShort>Master</titleShort>
+		<desc>Born to two medics, NAME longed for power. HISCAP keen intellect and charisma helped HIM gain the respect of HIS peers.
+Deciding that the best way to gain power was to climb the ranks of the imperial military, HE joined at the youngest possible age.</desc>
+	</YoungMaster70>
+	<ImperialGeneral31>
+		<title>Imperial general</title>
+		<titleShort>General</titleShort>
+		<desc>NAME's thirst for power defined HIM. HECAP quickly rose through the military ranks and soon attained the rank of general.
+HECAP was given with the most challenging task - conquering distant and unexplored rim worlds. Victory here could even position HIM as a successor to the emperor.</desc>
+	</ImperialGeneral31>
+	<FarmersSon51>
+		<title>Farmer's son</title>
+		<titleShort>Farmer</titleShort>
+		<desc>Ade spent much of his childhood learning biome farming. In his biome they kept animals to investigate which would cope best in the alien environment.
+Due to this, the travel restrictions and oxygen rationing system, he rarely got to meet anyone from outside his family.</desc>
+	</FarmersSon51>
+	<RebelFighter79>
+		<title>Rebel fighter</title>
+		<titleShort>Rebel</titleShort>
+		<desc>When civil war broke out Ade remained neutral to either side, until his biome was firebombed by a loyalist militia.
+Later, his unit gave him the nickname "Rare" after he burnt down the luxury villa of a loyalist leader, with them still inside it.</desc>
+	</RebelFighter79>
+	<WealthyStudent21>
+		<title>Wealthy student</title>
+		<titleShort>Student</titleShort>
+		<desc>NAME was born on a wealthy glitterworld. HECAP studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.
+NAME grew up in clean, sterile environments. HECAP never saw a farm or livestock.</desc>
+	</WealthyStudent21>
+	<Roboticist20>
+		<title>Roboticist </title>
+		<titleShort>Roboticist</titleShort>
+		<desc>NAME felt more comfortable with robots and artificial intelligences than with organic people, so HE worked as a roboticist. HECAP took a particular interest in mechanites and ancient technology.  
+NAME relied on other people for HIS basic needs.</desc>
+	</Roboticist20>
+	<StreetPeddler62>
+		<title>Street peddler</title>
+		<titleShort>Peddler</titleShort>
+		<desc>Growing up on an industrial midworld where robberies and muggings weren't uncommon, NAME helped support his family by making small trinkets and novelties to sell to passers-by.
+HECAP learned early on that it wasn't always what HE knew, but who HE knew that would get HIM far in life.</desc>
+	</StreetPeddler62>
+	<PrivateDetective57>
+		<title>Private detective</title>
+		<titleShort>Detective</titleShort>
+		<desc>As a private eye, sharp wits and a silver tongue were NAME's greatest tools. HECAP often spent HIS nights working cases that ranged from uncovering affairs and learning trade secrets to solving murder cases and infiltrating criminal organizations. There wasn't a case HE wouldn't accept for the right price.</desc>
+	</PrivateDetective57>
+	<BodyguardTrainee27>
+		<title>Bodyguard trainee</title>
+		<titleShort>Bodyguard</titleShort>
+		<desc>NAME was born into a famously skilled family of bodyguards. HISCAP mothers Elena and Victoria forced HIM into many dangerous situations, training HIM to put HIS client's well-being over HIS own.
+NAME was taught about many herbs and natural poisons to help HIM prevent clients from being poisoned.</desc>
+	</BodyguardTrainee27>
+	<SpaceBartender52>
+		<title>Space bartender</title>
+		<titleShort>Bartender</titleShort>
+		<desc>NAME became a bartender on a space station. HECAP interacted with and befriended many strangers.
+As time went on, NAME used HIS knowledge of herbs to craft HIS own strange concoctions for HIS customers.</desc>
+	</SpaceBartender52>
+	<SpoiledChild65>
+		<title>Spoiled child</title>
+		<titleShort>Spoiled</titleShort>
+		<desc>NAME was the child of an industrious space engineer. HISCAP parents forbade most manual and dangerous tasks, so HE learned art and music instead.
+HECAP loved animals, but HIS parents never let HIM have a pet - though HE played with other people's pets a lot.</desc>
+	</SpoiledChild65>
+	<CosmeticSurgeon52>
+		<title>Cosmetic surgeon</title>
+		<titleShort>Surgeon</titleShort>
+		<desc>NAME had a terrible bedside manner due to HIS abrasiveness. HECAP often bullied HIS patients into getting cosmetic surgery. HECAP made a lot of money this way.
+While very studious and careful in HIS work, HE never had to lift a finger doing domestic chores.</desc>
+	</CosmeticSurgeon52>
+	<Philosopher26>
+		<title>Philosopher</title>
+		<titleShort>Thinker</titleShort>
+		<desc>NAME was a student on a glitterworld. HECAP had a hard time in school, since the other kids thought HIM rather strange.
+HECAP always maintained a distance from these events, being continuously surprised by the many interesting and awkward ways life can go.</desc>
+	</Philosopher26>
+	<UprightDiplomat83>
+		<title>Upright diplomat</title>
+		<titleShort>Diplomat</titleShort>
+		<desc>As a diplomat, NAME was assigned to deal with diplomatic tasks in the blood-soaked outer rim sectors.
+HECAP hoped to end the endless wars, until HIS consularship, the St. Anthem, was attacked by a raider fleet.</desc>
+	</UprightDiplomat83>
+	<CaveChild67>
+		<title>Cave child</title>
+		<titleShort>Cave kid</titleShort>
+		<desc>NAME grew up in a cave on an tundra planet, and was adopted by a traveling group of entertainers known only as the Wizards. Once a starfaring crew, the Wizards told HIM wondrous stories about the universe.
+One day, the Wizards did not return from scavenging. After years of waiting, NAME set off into space to find them.</desc>
+	</CaveChild67>
+	<VideoProducer97>
+		<title>Video producer</title>
+		<titleShort>Producer</titleShort>
+		<desc>Too awkward to socialize, NAME found comfort in the production of videos. Oddly, people enjoyed his videos, calling them "perfect sitcom dramas".
+NAME took advantage of this and broadcast more, ever hopeful that HE would be contacted by the Wizards.</desc>
+	</VideoProducer97>
+	<RangerChild91>
+		<title>Ranger child</title>
+		<titleShort>Ranger kid</titleShort>
+		<desc>NAME was raised in a forest. HISCAP father taught HIM to hunt and live off the land, so that HE could live without the need of others when father died.
+Accustomed to manual labor and with an intuitive mind, NAME could survive weeks alone.</desc>
+	</RangerChild91>
+	<BushSniper97>
+		<title>Bush sniper</title>
+		<titleShort>Sniper</titleShort>
+		<desc>NAME's peaceful life was cut short when HIS country was brutally invaded.
+NAME was drafted into service as soon as HE was of legal age, and quickly showed an aptitude for rifles. HECAP spent months living in the forests picking off soldiers who dared cross the border.</desc>
+	</BushSniper97>
+	<GlitterworldRoyal5>
+		<title>Glitterworld royal</title>
+		<titleShort>Royalty</titleShort>
+		<desc>NAME grew up in a glitterworld royal household. She was groomed from a young age to marry into another planet's royal family.
+Unfortunately, her crooked teeth made her undesirable to suitors, so she became bitter and resentful.</desc>
+	</GlitterworldRoyal5>
+	<PirateSympathizer24>
+		<title>Pirate sympathizer</title>
+		<titleShort>Pirate</titleShort>
+		<desc>From her youth, NAME developed connections in the underworld. There she trained in melee combat and became a trusted underworld advisor.
+After participating in a failed rebellion, she fled her homeworld to travel with a pirate band.</desc>
+	</PirateSympathizer24>
+	<PlagueSurvivor48>
+		<title>Plague survivor</title>
+		<titleShort>Survivor</titleShort>
+		<desc>NAME watched as a mysterious plague spread through his town, killing his family and friends.
+HECAP learned some medicine from watching the plague doctors, but was mentally scarred by the ordeal.</desc>
+	</PlagueSurvivor48>
+	<UnethicalDoctor97>
+		<title>Unethical doctor</title>
+		<titleShort>Doctor</titleShort>
+		<desc>NAME became a doctor to save lives and research medicine. HECAP soon realized the only way to make progress on HIS research was to perform experiments on human patients.
+HECAP often used patients for HIS experiments - whether they were willing or not.</desc>
+	</UnethicalDoctor97>
+	<OffworldRecruit22>
+		<title>Offworld recruit</title>
+		<titleShort>Recruit</titleShort>
+		<desc>NAME was born an raised in an offworld soldier growth facility. From a very young age, HE was taught close-quarters combat tactics, aggression, and how to survive on distant planets.
+One of the best, NAME was eventually chose to enter the orbital-deployment shock troop corps.</desc>
+	</OffworldRecruit22>
+	<ShockTrooper52>
+		<title>Shock trooper</title>
+		<titleShort>Shocktroop</titleShort>
+		<desc>NAME was in a deep space shock troop unit deployed on multiple planets in various wars.
+During a risky assault, HIS whole unit was wiped out. Nobody else knew what happened on the field that day, but NAME will carry the burden forever.</desc>
+	</ShockTrooper52>
+	<ProdigalStudent39>
+		<title>Prodigal student</title>
+		<titleShort>Student</titleShort>
+		<desc>NAME was a faithful student, and was dedicated to learning anything and everything he could about humanity and its creations.
+While HE was shunned as a nerd, HE didn't mind. HECAP hoped for a brighter future.</desc>
+	</ProdigalStudent39>
+	<CombatMedtech40>
+		<title>Combat medtech</title>
+		<titleShort>Medic</titleShort>
+		<desc>As a military medtech, NAME's job was to fix and build anything he could get HIS hands on, from living people to machines and mechs.
+Sent into dangerous areas, HE never had a problem saving soldiers' lives and building the technology and machines needed to win.</desc>
+	</CombatMedtech40>
+	<AdventurousYouth32>
+		<title>Adventurous youth</title>
+		<titleShort>Adventurer</titleShort>
+		<desc>NAME explored all around HIS family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.
+During his teenage years, NAME made numerous enemies</desc>
+	</AdventurousYouth32>
+	<TreasureHunter70>
+		<title>Treasure hunter</title>
+		<titleShort>Adventurer</titleShort>
+		<desc>NAME explored outer rim planets in hopes of finding rare treasures.
+After succeeding in finding one legendary sculpture, HE was betrayed by HIS men. HECAP survived their treasonous attack, but the sculpture was taken.
+HECAP created the Anvil Mercenary Company to help HIM seek revenge.</desc>
+	</TreasureHunter70>
+	<PilotFan99>
+		<title>Pilot fan</title>
+		<titleShort>Pilot fan</titleShort>
+		<desc>NAME's father was a starfighter pilot, and HE always idolized the old man.
+From a young age, HE collected pilot memorabilia and studied pilot books, preparing to join the deep space navy and follow in HIS father's footsteps.</desc>
+	</PilotFan99>
+	<StarfighterPilot54>
+		<title>Starfighter pilot</title>
+		<titleShort>Pilot</titleShort>
+		<desc>After years of training and drilling, NAME finally became a starfighter pilot.
+Hundreds of combat missions later, HE grew bored and started seeking newer thrills. HECAP joined a band of space pirates, which eagerly welcomed HIM because of HIS piloting skill.</desc>
+	</StarfighterPilot54>
+	<MedicalHelper65>
+		<title>Medical helper</title>
+		<titleShort>Med helper</titleShort>
+		<desc>NAME traveled between rim worlds with HIS family. NAME's mother, a renowned doctor, often delivered lectures from the hull of their retrofitted cargo/medical ship.
+Sometimes, the family took on difficult long-term medical work with especially needy patients, and NAME helped where he could.</desc>
+	</MedicalHelper65>
+	<GangSoldier28>
+		<title>Gang soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>Living for many years between three raider settlements, NAME persevered through many challenges: a spacecraft implosion, cryptostasis, crashlanding on a miserable dustball of a planet, and nursing an old man back to health, and many of battles.
+HECAP eventually took control of a violent gang.</desc>
+	</GangSoldier28>
+	<CountryChild62>
+		<title>Country child</title>
+		<titleShort>Hick kid</titleShort>
+		<desc>NAME was raised up to fear God and love HIS country. HECAP was a genuine backwoods kid. HECAP always worked hard to earn respect rather than demanding it.</desc>
+	</CountryChild62>
+	<SpaceMarine80>
+		<title>Space marine</title>
+		<titleShort>Marine</titleShort>
+		<desc>NAME joined Interplanetary Marines to travel the stars fight for HIS planet. HECAP distinguished himself in several battles.
+HISCAP experiences desensitized him to people around him, and his social skills degraded. But, he did learn how to fight.</desc>
+	</SpaceMarine80>
+	<RebelWriter82>
+		<title>Rebel writer</title>
+		<titleShort>Writer</titleShort>
+		<desc>Early on, NAME developed a talent for writing. HECAP was soon writing a popular online journal - anonymously, to hide HIS age - on topics ranging from bioethics to political theory and xenosociology.</desc>
+	</RebelWriter82>
+	<Adventurer17>
+		<title>Adventurer</title>
+		<titleShort>Adventurer</titleShort>
+		<desc>NAME's thirst for adventure took HIM to many planets. HECAP visited the brightest glitterworlds and the darkest war-torn toxic planets in HIS quest to find novelty and excitement.
+HECAP worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, HE hated cooking the most.</desc>
+	</Adventurer17>
+	<ExiledPrince89>
+		<title>Exiled prince</title>
+		<titleShort>Prince</titleShort>
+		<desc>A member of a royal family, NAME was exiled for shaming HIS family.
+Living in a foreign land, mostly alone, HE spent most of HIS time making huts and houses to live in. HECAP found little time in an average day for enjoyment, and lost all his friends and family.</desc>
+	</ExiledPrince89>
+	<BloodyWanderer51>
+		<title>Bloody wanderer</title>
+		<titleShort>Wanderer</titleShort>
+		<desc>NAME was a wanderer, traveling from town to town, taking odd jobs and stealing to live.
+One day, he had a mental break and went on a long rampage, destroying several towns and killing many. HECAP eventually calmed, but HIS bloodlust never left HIM.</desc>
+	</BloodyWanderer51>
+	<NewAgeDuelist36>
+		<title>New age duelist</title>
+		<titleShort>Duelist</titleShort>
+		<desc>NAME was fascinated with combat. HIS parents traveled often, so HE was able to sample many different fighting styles, from 76th-wave jujutsu to the infamous 'urbworld-style' karate.
+A polite child, most fighters accepted HIS requests for training - but moving around often without finishing a tutelage made HIM lazy.</desc>
+	</NewAgeDuelist36>
+	<PirateDoctor33>
+		<title>Pirate doctor</title>
+		<titleShort>Bad doc</titleShort>
+		<desc>NAME had a passion for medicine, but never bothered to get a medical degree. Only underfunded pirates and terrorists were desperate enough to hire HIS services, and HIS surgical patients had about a 50% survival rate.
+Despite this, HIS optimistic attitude drove HIM to keep trying to heal those in need. As long as they paid up front.</desc>
+	</PirateDoctor33>
+	<SpoiledBrat84>
+		<title>Spoiled brat</title>
+		<titleShort>Brat</titleShort>
+		<desc>Born in a rich family, NAME was given everything, and never developed basic work ethic or the foundations of a non-dependent personality.
+HECAP was expected to become one of the best doctors in the world.</desc>
+	</SpoiledBrat84>
+	<BloodyDentist33>
+		<title>Bloody dentist</title>
+		<titleShort>Dentist</titleShort>
+		<desc>After studying at a famous college, NAME's weak personality eventually snapped under the strain of angry administrators and whining patients. HECAP went on a secret murder spree, killing many of those under HIS care.
+After a pursuit, HE managed to escape HIS planet and travel to a new world.</desc>
+	</BloodyDentist33>
+	<CowFarmer93>
+		<title>Cow farmer</title>
+		<titleShort>Farmer</titleShort>
+		<desc>NAME grew up on a rim world, under the tyranny of HIS father, who forced HIM to work every day on the farm. HE dreamed of escaping HIS father and exploring the universe.
+One day, when the trade ship was overhead, HE stowed away among the goods in the launch pods, and escaped into space.</desc>
+	</CowFarmer93>
+	<MasterChef6>
+		<title>Master chef</title>
+		<titleShort>Chef</titleShort>
+		<desc>On a glitterworld, NAME found a job washing dishes at a famous restaurant and worked HIS way up the ranks.
+A few years later, HIS career came to an end when someone poisoned the meal HE was preparing for the mayor. Jobless, HE and left to explore the stars once again.</desc>
+	</MasterChef6>
+	<DiscardedYouth95>
+		<title>Discarded youth</title>
+		<titleShort>Discarded</titleShort>
+		<desc>NAME grew up isolated on a trash planet. A dumping ground for surrounding glitterworlds, it was a harsh home. As a baby, HE sucked on the tap of a discarded nutrient paste dispenser for comfort.
+In these desperate circumstances, against all odds, HE survived - and thrived.</desc>
+	</DiscardedYouth95>
+	<Mercenary19>
+		<title>Mercenary</title>
+		<titleShort>Mercenary</titleShort>
+		<desc>After escaping his home planet, NAME fell in with a band of mercenaries. HECAP fought alongside his brothers and sisters in arms for many years.
+One day, they were caught in a fight they couldn't win. Refusing to retreat, NAME was shot down by his enemies. HECAP was alarmed to awake in a heap of corpses, mysteriously unharmed.</desc>
+	</Mercenary19>
+	<DisasterSurvivor28>
+		<title>Disaster survivor</title>
+		<titleShort>Survivor</titleShort>
+		<desc>NAME's planet collided with a small moon. Everything he knew as home was destroyed, and his entire family died. HECAP was left in the ruins to fend for himself.</desc>
+	</DisasterSurvivor28>
+	<ExplorerWriter37>
+		<title>Explorer-writer</title>
+		<titleShort>Explorer</titleShort>
+		<desc>NAME traveled from planet to planet, gathering samples, stories, and research. 
+HISCAP goal was to bring together enough knowledge to make a survival guide for future generations.</desc>
+	</ExplorerWriter37>
+	<RebelChild7>
+		<title>Rebel child</title>
+		<titleShort>Rebel</titleShort>
+		<desc>NAME was born under authoritarian rule. Despite intense oppression from family and community, she never gave up fighting for her dignity and her freedom.
+She was often put into hopeless situations where even family would try to terrorize her into propriety. She learned to trust no one.</desc>
+	</RebelChild7>
+	<MilitiaSoldier83>
+		<title>Militia soldier</title>
+		<titleShort>Soldier</titleShort>
+		<desc>NAME joined the militia forces and fought for rights and peace.
+After her homeworld was unexpectedly destroyed in the wars, she traveled great distances, seeking a refuge where she could build a new, free way of life.</desc>
+	</MilitiaSoldier83>
+	-->
 
 </BackstoryTranslations>
