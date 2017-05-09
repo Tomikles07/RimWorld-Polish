@@ -2126,7 +2126,7 @@ W międzyczasie Nebulys pomagał ludziom w potrzebie.</desc>
 HISCAP marzenia podpowiedziały mu, by zapytał, co leży za światłami na niebie.</desc>
 	</PsychologyStudent88>
 	<AcolyteOfStars66>
-		<title>Pomocnik gwiazd</title>
+		<title>Akolita gwiazd</title>
 		<titleShort>Kapłan</titleShort>
 		<desc>NAME - zawrze marząc - podróżował przez wszechświat, by znaleźć to, co do niego wołało.
 			
@@ -3251,146 +3251,165 @@ Wyrzocono HIM z niego za postrzelenie oficera. Nigdy nie ustalono, czy był to w
 		<desc>Po zakończeniu edukacji, NAME została zatrudniona przez planetarnego lidera badań genetycznych. Później, przyłapano ją prowadzeniu nielegalnych, nieludzkich eksperymentów.
 Pomimo tego, że HIS rodzina próbowała interweniować, została osądzona i skazana na ciężkie prace w kolonii karnej.</desc>
 	</MadScientist65>
-	<YouthSoldier75>
+	<!--YouthSoldier75>
 		<title>Youth soldier</title>
 		<titleShort>Soldier</titleShort>
-		<desc>Zrodzony z długiej linii żołnierzy, NAME wstąpił do programu przysposobienia wojskowego.
-HECAP celował w zajęciach fizycznych, a nawet zdał większość egzaminów sprawdzających inteligencję. Mimo że nie był nigdy szczególnie bystry, NAME nauczył się doceniać wartość ciężkiej pracy i niedoli.</desc>
-	</YouthSoldier75>
+		<desc>Born to a long line of soldiers, NAME joined a military training program.
+HECAP excelled in physical training, and even passed most of the intellectual exams. While HE was never particularly bright or nimble, NAME learned the value of hard work and suffering.</desc>
+	</YouthSoldier75-->
 	<SpaceMarine48>
 		<title>Kosmiczny marine</title>
 		<titleShort>Marine</titleShort>
 		<desc>NAME był wojownikiem w marynarce Imperium.
 HISCAP specjalność to brawurowy abordaż, eliminacja załogi i przechwycenie nietkniętego statku kosmicznego. I był w tym dobry.</desc>
 	</SpaceMarine48>
-	<!--DataDecoder25>
-		<title>Data decoder</title>
-		<titleShort>Decoder</titleShort>
-		<desc>Born on a glitterworld, NAME was very interested  in the process of documenting information, and quickly became senior glitterpedia recorder.
-HECAP was effective at self-study, but HE was lacked in social experiences.</desc>
+	<DataDecoder25>
+		<title>Deszyfrator informacji</title> <!-- decoder / encoder !-->
+		<titleShort>Dekoder</titleShort>
+		<desc>NAME urodził się na jednym z glitterworld. Bardzo interesował się procesami dokumentacji informacji, i szybko został starszym redaktorem glitterpedii.
+HISCAP metody samokształcenia były efektywne, ale rozwinęły się kosztem skromnych doświadczeń społecznych.</desc>
 	</DataDecoder25>
 	<ArchotechSpy14>
-		<title>Archotech spy</title>
-		<titleShort>AI spy</titleShort>
-		<desc>NAME was a cybernetic researcher. Studying a transcended world, HE became too involved with HIS subjects. Over time, the archotech machine core recruited HIM into its service, and used HIM as a spy.
-When HE later rebelled against HIS non-human master, it sent mechanoids across space to hunt HIM down.</desc>
+		<title>Architekowy szpieg</title>
+		<titleShort>Szpieg SI</titleShort>
+		<desc>NAME był badaczem cybernetyki. Studiując realia transcendowanego świata, zbliżył się zbytnio do obiektów swych badań.  Po pewnym czasie jądro architeku zrektutowało HIM do swoich celów i używało do szpiegostwa.
+
+Gdy później zbuntował się przeciw swojej nie-ludzkiej Pani, SI w odwecie, wysłała mechanoidy w przestrzeń kosmiczną, by HIM upolować.</desc>
 	</ArchotechSpy14>
 	<DustyFarmHand63>
-		<title>Dusty farm hand</title>
-		<titleShort>Farm hand</titleShort>
-		<desc>From the time NAME could walk, HE helped take care of the animals and crops that HIS people tended in their arid homeland.
-The work toughened HIM, but left little time for intellectual activities.</desc>
-	</DustyFarmHand63>
+		<title>Pasterz sahelu</title>
+		<titleShort>Farmer</titleShort>
+		<desc>Od kiedy NAME nauczył się chodzić, pomagał doglądać upraw i paść zwierzęta, którymi zajmował się HIS lud w suchym środowisku ojczystego świata. From the time NAME could walk, HE helped take care of the animals and crops that HIS people tended in their arid homeland.
+		
+Ciężka praca wzmogła HIS wytrwałość, ale zostawiła HIM niewiele czasu na zajęcia intelektualne.</DustyFarmHand63>
 	<DromedaryKnight31>
 		<title>Dromedary knight</title>
 		<titleShort>Knight</titleShort>
-		<desc>Having caught the eye of HIS people's Sand King, NAME was trained in the Sandy Boomrat fighting technique.
-Always with a camel to carry his things, HE served HIS sand people faithfully.</desc>
+		<desc>Będąc dostrzeżonym przez samego Piaskowego Króla, NAME został wyszkolony w sztuce walki zwanej "Piaskowy Bumszczur".
+		
+Zawsze z wielbłądem u boku, niosącym HIS ekwipunek, NAME wiernie i lojalnie służył piaskowemu ludowi.</desc>
 	</DromedaryKnight31>
 	<PlagueChild8>
-		<title>Plague child</title>
-		<titleShort>Child</titleShort>
-		<desc>Born on a world wracked by plague, both of NAME's parents were doctors. 
-NAME was raised in reverse-quarantine, under the Hippocratic oath. HECAP experienced little social interaction. However, HE gained a lot of medical experience assisting in treatments.</desc>
+		<title>Dziecko plagi/title>
+		<titleShort>Dziecko</titleShort>
+		<desc>NAME urodził się na świecie spustoszonym przez zarazę. Oboje HIS rodziców było lekarzami.
+Kierując się przysięgą Hipokratesa, wychowano HIM w izolacji od plagi. HIS kontakty społeczne bywały sporadyczne. Jednak zdobył za to mnóstwo doświadczeń związanych z medycyną, asystując przy procedurach leczniczych.</desc>
 	</PlagueChild8>
 	<PlagueDoctor99>
-		<title>Plague doctor</title>
-		<titleShort>Doctor</titleShort>
-		<desc>NAME provided medical care on multiple plague-wracked worlds, always working under the Hippocratic oath. HECAP improved conditions for those under quarantine while administering complex medical treatments and developing medicines.
-HECAP never had time to enjoy a normal life outside of work.</desc>
+		<title>Epidemiolog</title>
+		<titleShort>Lekarz</titleShort>
+		<desc>NAME dostarczał opieki medycznej na wielu światach spustoszonych przez szalejące zarazy, zawsze pracując pod przysięgą Hipokratesa. Podniósł jakość warunków pacjentów poddanych procedurze kwarantanny poprzez umiejętne zarządzanie skomplikowanymi procedurami medycznymi i wdrażając nowe leki.
+
+HECAP nigdy nie miał czasu cieszyć się normalnym życiem poza miejscem pracy.</desc>
 	</PlagueDoctor99>
-	<YoungMaster70>
+	<!--YoungMaster70>
 		<title>Young master</title>
 		<titleShort>Master</titleShort>
 		<desc>Born to two medics, NAME longed for power. HISCAP keen intellect and charisma helped HIM gain the respect of HIS peers.
 Deciding that the best way to gain power was to climb the ranks of the imperial military, HE joined at the youngest possible age.</desc>
-	</YoungMaster70>
+	</YoungMaster70!-->
 	<ImperialGeneral31>
-		<title>Imperial general</title>
-		<titleShort>General</titleShort>
-		<desc>NAME's thirst for power defined HIM. HECAP quickly rose through the military ranks and soon attained the rank of general.
-HECAP was given with the most challenging task - conquering distant and unexplored rim worlds. Victory here could even position HIM as a successor to the emperor.</desc>
+		<title>Generał Imperium</title>
+		<titleShort>Generał</titleShort>
+		<desc>Jeśli chodzi o NAME, ukształtowało HIM pragnienie władzy. Łatwe awanse w hierarchi wojskowej przyniosły HIS niebawem stopień generalski.
+		
+Otrzymał jedno z najbardziej wyzywających zadań - podbój odległych i nieznanych światów rubieży. Takie zwycięstwo może nawet wynieść HIM na potencjalnego sukcesora tronu Imperium.</desc>
 	</ImperialGeneral31>
-	<FarmersSon51>
-		<title>Farmer's son</title>
+	<FarmersSon51><!-- westwinnd: possible gender specyfic backstory (male) !-->
+		<title>Syn farmera</title>
 		<titleShort>Farmer</titleShort>
-		<desc>Ade spent much of his childhood learning biome farming. In his biome they kept animals to investigate which would cope best in the alien environment.
-Due to this, the travel restrictions and oxygen rationing system, he rarely got to meet anyone from outside his family.</desc>
+		<desc>Ade spędził większość dzieciństwa na poznawaniu niuansów agrobiologii. W HIS klimacie prowadzono hodowlę wstępną, by określić, który gatunek poradzi sobie najlepiej w obcym ekosystemie.
+		
+Z tego powodu, oraz ograniczeń podróży i systemu reglamentacji tlenu, rzadko spotykał ludzi spoza rodziny.</desc>
 	</FarmersSon51>
-	<RebelFighter79>
-		<title>Rebel fighter</title>
-		<titleShort>Rebel</titleShort>
-		<desc>When civil war broke out Ade remained neutral to either side, until his biome was firebombed by a loyalist militia.
-Later, his unit gave him the nickname "Rare" after he burnt down the luxury villa of a loyalist leader, with them still inside it.</desc>
+	<RebelFighter79><!-- westwinnd: possible gender specyfic backstory (male) !-->
+		<title>Wojownik rebelii</title>
+		<titleShort>Rebeliant</titleShort>
+		<desc>Gdy wybuchła wojna domowa, Ade nie opowiedział się po niczyjej stronie, dopóki HIS obszar nie spłonął podczas nalotów bojówek lojalistów.
+Później, w jego oddziale nadano HIM przydomek "Rare", po tym, jak spalił luksusową posiadłość dowódcy lojalistów, z nim samym w środku.</desc>
 	</RebelFighter79>
 	<WealthyStudent21>
-		<title>Wealthy student</title>
+		<title>Zamożny student</title>
 		<titleShort>Student</titleShort>
-		<desc>NAME was born on a wealthy glitterworld. HECAP studied at the Caspian school of Engineering, and excelled in mathematics and computer programming.
-NAME grew up in clean, sterile environments. HECAP never saw a farm or livestock.</desc>
+		<desc>NAME urodził się na bogatym glitterworldzie. Studiował na Politechnice Caspiana, gdzie celował w matematyce i programowaniu komputerów.
+		
+NAME dorastał w czystym, sterylnym otoczeniu. Nigdy nie widział farmy albo bydła na oczy.</desc>
 	</WealthyStudent21>
 	<Roboticist20>
-		<title>Roboticist </title>
-		<titleShort>Roboticist</titleShort>
-		<desc>NAME felt more comfortable with robots and artificial intelligences than with organic people, so HE worked as a roboticist. HECAP took a particular interest in mechanites and ancient technology.  
-NAME relied on other people for HIS basic needs.</desc>
+		<title>Robotyk</title>
+		<titleShort>Robotyk</titleShort>
+		<desc>
+		NAME czuł się bardziej komfortowo w otoczeniu robotów i sztucznej inteligencji, niż w towarzystwie ludzi, więc pracował jako konstruktor robotów. Szczególnym HIS zainteresowaniem cieszyły się mechanity i starożytna technika.
+
+Jeśli chodzi o podstawowe potrzeby życiowe, NAME polegał na innych ludziach.</desc>
 	</Roboticist20>
 	<StreetPeddler62>
-		<title>Street peddler</title>
-		<titleShort>Peddler</titleShort>
-		<desc>Growing up on an industrial midworld where robberies and muggings weren't uncommon, NAME helped support his family by making small trinkets and novelties to sell to passers-by.
-HECAP learned early on that it wasn't always what HE knew, but who HE knew that would get HIM far in life.</desc>
+		<title>Handlarz uliczny</title>
+		<titleShort>Straganiarz</titleShort>
+		<desc>Dorastając na industrialnym midworldzie, gdzie napady i rozboje nie były niczym rzadkim, NAME pomagał swojej rodzinie wyrabiając i sprzedając przechodniom różne ozdóbki i błyskotki.
+Nauczył się wcześnie, że prędzej nie to, co wie, lecz to, kogo zna, zabierze HIM w życiu daleko.</desc>
 	</StreetPeddler62>
 	<PrivateDetective57>
-		<title>Private detective</title>
-		<titleShort>Detective</titleShort>
-		<desc>As a private eye, sharp wits and a silver tongue were NAME's greatest tools. HECAP often spent HIS nights working cases that ranged from uncovering affairs and learning trade secrets to solving murder cases and infiltrating criminal organizations. There wasn't a case HE wouldn't accept for the right price.</desc>
+		<title>Prywatny detektyw</title>
+		<titleShort>Detektyw</titleShort>
+		<desc>
+		Gdy NAME był detektywem do wynajęcia, bystry rozum i dobra gadka były HIS najlepszymi narzędziami. Często pracował w nocy i miał doczynienia ze wszystkim: od demaskowania romansów i szpiegostwa handlowego poprzez śledztwa w sprawach morderstw, aż do infiltracji organizacji przestępczych.
+		
+Nie było zlecenia, którego by się nie podjął, za odpowiednią zapłatą.</desc>
 	</PrivateDetective57>
 	<BodyguardTrainee27>
-		<title>Bodyguard trainee</title>
-		<titleShort>Bodyguard</titleShort>
-		<desc>NAME was born into a famously skilled family of bodyguards. HISCAP mothers Elena and Victoria forced HIM into many dangerous situations, training HIM to put HIS client's well-being over HIS own.
-NAME was taught about many herbs and natural poisons to help HIM prevent clients from being poisoned.</desc>
+		<title>Stażysta ochroniarstwa</title>
+		<titleShort>Ochroniarz</titleShort>
+		<desc>
+		NAME urodził się w rodzinie słynnych wykfalifikowanych ochroniarzy. HISCAP matki, Elena i Victoria, stawiały HIM w wielu niebezpiecznych sytuacjach, ucząc jednocześnie, by zawsze stawiał dobro osoby, którą chroni, ponad własnym dobrem.
+		
+NAME uczył się wiedzy o ziół leczniczych i truciznach, co miało pomóc HIM przeciwdziałać próbom otrucia HIS klientów.</desc>
 	</BodyguardTrainee27>
 	<SpaceBartender52>
 		<title>Space bartender</title>
 		<titleShort>Bartender</titleShort>
-		<desc>NAME became a bartender on a space station. HECAP interacted with and befriended many strangers.
-As time went on, NAME used HIS knowledge of herbs to craft HIS own strange concoctions for HIS customers.</desc>
+		<desc>NAME został barmanem na stacji kosmicznej. W pracy zetknął się z mnóstwem ludzi, z wielomem z nich się zaprzyjaźnił.
+		
+Z biegiem czasu NAME, użwając swojej wiedzy o ziołach, zaczął tworzyć autorskie, nietypowe kompozycje dla swoich klientów..</desc>
 	</SpaceBartender52>
 	<SpoiledChild65>
-		<title>Spoiled child</title>
-		<titleShort>Spoiled</titleShort>
-		<desc>NAME was the child of an industrious space engineer. HISCAP parents forbade most manual and dangerous tasks, so HE learned art and music instead.
-HECAP loved animals, but HIS parents never let HIM have a pet - though HE played with other people's pets a lot.</desc>
+		<title>Rozpuszczone dziecko</title>
+		<titleShort>Rozpuszczony</titleShort>
+		<desc>NAME był dzieckiem inżyniera kosmicznego w czasach przemysłowych. HISCAP rodzice odwodzili HIM od większości manualnych i niebezpiecznych prac, więc zamiast tego uczył się sztuki i muzyki.
+		
+Kochał zwierzęta, ale HIS rodzice nigdy zgodzili się na żadne, więc bawił się często z czyimiś.</desc>
 	</SpoiledChild65>
 	<CosmeticSurgeon52>
-		<title>Cosmetic surgeon</title>
-		<titleShort>Surgeon</titleShort>
-		<desc>NAME had a terrible bedside manner due to HIS abrasiveness. HECAP often bullied HIS patients into getting cosmetic surgery. HECAP made a lot of money this way.
-While very studious and careful in HIS work, HE never had to lift a finger doing domestic chores.</desc>
+		<title>Chirurg kosmetyczy</title>
+		<titleShort>Chirurg/titleShort>
+		<desc>NAME był szortski w obyciu z pacjentami, często namawiał ich na operacje kosmetyczne. Zarobił w ten sposób mnóstwo pieniędzy. 
+
+W pracy był skrupulatny i uważny, choć nigdy nie przyłożył ręki do prac domowych.</desc>
 	</CosmeticSurgeon52>
 	<Philosopher26>
-		<title>Philosopher</title>
-		<titleShort>Thinker</titleShort>
-		<desc>NAME was a student on a glitterworld. HECAP had a hard time in school, since the other kids thought HIM rather strange.
-HECAP always maintained a distance from these events, being continuously surprised by the many interesting and awkward ways life can go.</desc>
+		<title>Filozof</title>
+		<titleShort>Umysłowiec</titleShort>
+		<desc>NAME był uczniem na glitterworldzie. Miał ciężko w szkole, odkąd inne dzieci zaczęły uważać go za raczej dziwnego.
+
+NAME zawsze utrzymywał dystans w stosunku do tamtych wydarzeń, i wciąż zaskakuje się, na jak wiele ciekawych i dziwnych sposobów może potoczyć się życie.</desc>
 	</Philosopher26>
 	<UprightDiplomat83>
-		<title>Upright diplomat</title>
-		<titleShort>Diplomat</titleShort>
-		<desc>As a diplomat, NAME was assigned to deal with diplomatic tasks in the blood-soaked outer rim sectors.
-HECAP hoped to end the endless wars, until HIS consularship, the St. Anthem, was attacked by a raider fleet.</desc>
+		<title>Dosadny dyplomata</title>
+		<titleShort>Dyplomata</titleShort>
+		<desc>NAME został wybrany, by stawić czoło trudnościom zadań dyplomatycznych w przesiąkniętych krwią sektorach zewnętrznych rubieży.
+		
+Miał HE nadzieje zakończyć tę odwieczną wojnę, dopóki St. Anthem, HIS statek na misji dyplomatycznej, nie został zaatakowany przez flotę najeźdzców.</desc>
 	</UprightDiplomat83>
 	<CaveChild67>
-		<title>Cave child</title>
-		<titleShort>Cave kid</titleShort>
-		<desc>NAME grew up in a cave on an tundra planet, and was adopted by a traveling group of entertainers known only as the Wizards. Once a starfaring crew, the Wizards told HIM wondrous stories about the universe.
-One day, the Wizards did not return from scavenging. After years of waiting, NAME set off into space to find them.</desc>
+		<title>Dziecko z jaskiń</title>
+		<titleShort>Dziecko jaskini</titleShort>
+		<desc>NAME dorósł w jaskini na pokrytej tundrą planecie i został przyjęty do wędrownej trupę artystów, znanej jedynie pod nazwą "Czarodzieje". Jej członkowie, niegdyś będący załogą statku kosmicznego, raczyli HIM niesamowitymi opowieśćmi o wszechświecie.
+
+Któregoś dnia, "Czarodzieje" nie wrócili z trasy. Po latach wyczekiwania, NAME wyruszył w ich poszukiwaniu.</desc>
 	</CaveChild67>
-	<VideoProducer97>
-		<title>Video producer</title>
-		<titleShort>Producer</titleShort>
+	<!--VideoProducer97>
+		<title>Producent filmowy</title>
+		<titleShort>Producent</titleShort>
 		<desc>Too awkward to socialize, NAME found comfort in the production of videos. Oddly, people enjoyed his videos, calling them "perfect sitcom dramas".
 NAME took advantage of this and broadcast more, ever hopeful that HE would be contacted by the Wizards.</desc>
 	</VideoProducer97>
