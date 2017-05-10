@@ -122,10 +122,10 @@
 	<TransportPod_Blueprint.label>Kapsuła transportowa (plan)</TransportPod_Blueprint.label>
 	<TransportPod_Frame.label>Kapsuła transportowa (budowa)</TransportPod_Frame.label>
 	<TransportPod_Frame.description>Kapsuła przeznaczona do suborbitalnych podróży. Może przenosić ludzi, przedmioty oraz zwierzęta. Wykorzystać ją można do transportu, niespodziewanego ataku lub wysłania wsparcia wojskowego.</TransportPod_Frame.description>
-	<MultiAnalyzer_Blueprint.label>Multianalizator (plan)</MultiAnalyzer_Blueprint.label>
-	<MultiAnalyzer_Frame.label>Multianalizator (budowa)</MultiAnalyzer_Frame.label>
-	<MultiAnalyzer_Frame.description>Zwiększa prędkość badań. Musi być zainstalowany blisko stołu naukowego. Jeden stół naukowy może być podłączony tylko do jednego multianalizatora.</MultiAnalyzer_Frame.description>
-	<MultiAnalyzer_Blueprint_Install.label>Multianalizator (plan)</MultiAnalyzer_Blueprint_Install.label>
+	<MultiAnalyzer_Blueprint.label>Multianalizer (plan)</MultiAnalyzer_Blueprint.label>
+	<MultiAnalyzer_Frame.label>Multianalizer (budowa)</MultiAnalyzer_Frame.label>
+	<MultiAnalyzer_Frame.description>Zwiększa prędkość badań. Musi być zainstalowany blisko stołu naukowego. Jeden stół naukowy może być podłączony tylko do jednego multianalizera.</MultiAnalyzer_Frame.description>
+	<MultiAnalyzer_Blueprint_Install.label>Multianalizer (plan)</MultiAnalyzer_Blueprint_Install.label>
 	<VitalsMonitor_Blueprint.label>Monitor funkcji życiowych (plan)</VitalsMonitor_Blueprint.label>
 	<VitalsMonitor_Frame.label>Monitor funkcji życiowych (budowa)</VitalsMonitor_Frame.label>
 	<VitalsMonitor_Frame.description>Zwiększa prędkość leczenia pacjenta. Musi być zainstalowany obok łóżka medycznego. Jeden monitor może być podłączony tylko do jednego łóżka medycznego.</VitalsMonitor_Frame.description>
