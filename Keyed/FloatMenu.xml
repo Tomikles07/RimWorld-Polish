@@ -20,7 +20,7 @@
     	<IsNotDraftedLower>{0} nie jest powołany</IsNotDraftedLower>
     	<CannotOrderNonControlledLower>nie może wydawać poleceń jednostkom niekontrolowanym</CannotOrderNonControlledLower>
   
-	<OrderManThing>Człowiek {0}</OrderManThing>
+	<OrderManThing>Operuj {0}</OrderManThing>
 
 	<MeleeAttack>Walcz wręcz z {0}</MeleeAttack>
 	<MeleeAttackToDeath>Pobij {0} na śmierć</MeleeAttackToDeath>
@@ -67,8 +67,8 @@
 	<CannotCarryToCryptosleepCasket>Nie można zanieść do kapsuły hibernacyjnej</CannotCarryToCryptosleepCasket>
 
 	<NoCryptosleepCasket>Brak wolnych kapsuł hibernacyjnych.</NoCryptosleepCasket>
-	<NoPrisonerBed>Nie ma odgrodzonych łóżek oznaczonych jako dla więźniów.</NoPrisonerBed>
-	<NoNonPrisonerBed>Nie ma wolnych łóżek nie dla więźniów.</NoNonPrisonerBed>
+	<NoPrisonerBed>Nie ma wydzielonych pomieszczeń z łóżkami przeznaczonymi dla więźniów.</NoPrisonerBed>
+	<NoNonPrisonerBed>Nie ma wolnych łóżek dla nie-więźniów.</NoNonPrisonerBed>
 	<NoAnimalBed>Brak zwierzęcych legowisk.</NoAnimalBed>
 	<Reserved>zarezerwowane przez kogoś innego.</Reserved>
 	<ReservedBy>zarezerwowane przez {0}</ReservedBy>
@@ -81,7 +81,7 @@
 	<MinSkill>Min. umiejętność</MinSkill>
   
 	<Equip>Ekwipuj {0}</Equip>
-	<EquipWarningBrawler>(zawadiaka będzie niezadowolony)</EquipWarningBrawler>
+	<EquipWarningBrawler>(awanturnik będzie niezadowolony)</EquipWarningBrawler>
 	<CannotEquip>Nie można ekwipować {0}</CannotEquip>
 
 	<ForceWear>Załóż {0}</ForceWear>
@@ -102,7 +102,7 @@
   	<GiveToPackAnimalSome>Daj {0} zwierzęciu (do spakowania)...</GiveToPackAnimalSome>
   	<GiveToPackAnimalCount>Weź {0} x{{0}}</GiveToPackAnimalCount>
 
-  	<CannotCarryToExit>Nie można przenieść {0} i opuścić obszary</CannotCarryToExit>
+  	<CannotCarryToExit>Nie można przenieść {0} i opuścić obszaru</CannotCarryToExit>
   	<CarryToExit>Przenieś {0} i opuść obszar</CarryToExit>
 	
 	<Strip>Rozbierz {0}</Strip>
