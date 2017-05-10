@@ -3,7 +3,7 @@
 
 	<CallOnRadio>Wezwij {0}</CallOnRadio>
 	<CannotUseReason>Nie można użyć ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Nie można użyć (rozbłysk)</CannotUseSolarFlare>
+	<CannotUseSolarFlare>Nie można użyć (rozbłysk słoneczny)</CannotUseSolarFlare>
 	<CannotUseNoPower>Nie można użyć (brak prądu)</CannotUseNoPower>
 	<CannotUseNoPath>Nie można użyć (brak dojścia)</CannotUseNoPath>
     	<CannotUseReserved>Nie można użyć (zarezerwowane)</CannotUseReserved>
