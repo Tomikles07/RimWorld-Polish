@@ -13,7 +13,7 @@ Takie życie wymaga bycia mistrzem w każdym podstawowym zadaniu.</desc>
 		<titleShort>Plebejusz</titleShort>
 		<desc>Uprawa ziemi, motykowanie, bycie woźnicą, pchanie taczek. Kopanie rowów, sadzenie roślin, przewidywanie przyszłorocznych zbiorów...
 
-Chociaż starodawni rolnicy nie byli wyedukowani w dzisiejszym rozumieniu, wiedzą bardzo dużo na temat klasycznej uprawy roślin metodami znanymi ludziom od zarania dziejów. Tak odizolowane od realiów dzisiejszego życia jednostki jak NAME, nie są w stanie zajmować się rzeczami wymagającymi zdolności intelektualnych czy nowoczesnych technologii.</desc>
+Chociaż starodawni rolnicy nie byli wyedukowani w dzisiejszym rozumieniu, wiedzą bardzo dużo na temat klasycznej uprawy roślin metodami znanymi ludziom od zarania dziejów. Tak odizolowane od realiów dzisiejszego życia jednostki jak NAME nie są w stanie zajmować się rzeczami wymagającymi zdolności intelektualnych czy nowoczesnych technologii.</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
 		<title>Władca feudalny</title>
@@ -2898,7 +2898,9 @@ HISCAP prestiżowa pozycja odsunęła go od wymagających prac fizycznych, pozwa
 	<ApprenticeSmith9>
 		<title>Praktykant kowalstwa</title>
 		<titleShort>Praktykant</titleShort>
-		<desc>NAME dorastał, pomagając w warsztacie ojca. Byli jednymi z ostatnich kowali, którzy wykorzystywali tradycyjne metody. Niektóre materiały zbierali samodzielnie.
+		<desc>NAME dorastał, pomagając w warsztacie ojca.
+			
+Byli jednymi z ostatnich kowali, którzy wykorzystywali tradycyjne metody. Niektóre materiały zbierali samodzielnie.
 			
 Czasami, po pracy, NAME ćwiczył, wykorzystując miecze, które wykuł.</desc>
 	</ApprenticeSmith9>
@@ -2916,7 +2918,7 @@ Czasami, po pracy, NAME ćwiczył, wykorzystując miecze, które wykuł.</desc>
 		<title>Farmer klonów</title>
 		<titleShort>Kloner</titleShort>
 		<desc>Zbieranie produktów farm klonów wykonywane jest w większości przez same klony - w szczególności przez te, które wykazują pewne skłonności sprzyjające socjalizacji. Ten klon był właśnie jednym z tych, którym udało się uciec z farmy i skierować wzrok ku gwiazdom.</desc>
-	</CloneFarmer72>-->
+	</CloneFarmer72>
 <MilitantChild30>
 		<title>Dziecko militarysty</title>
 		<titleShort>Żołnierz</titleShort>
@@ -2941,44 +2943,43 @@ Wygrał kilka przeciętnych, lokalnych turniejów ery 16-bitowej. Nikt nie dostr
 	<ToasterRepairman81>
 		<title>Serwisant tosterów</title>
 		<titleShort>Serwisant</titleShort>
-		<desc>Z dwiema zdrowymi rękami, i z pasją do techniki, NAME miał ambicję być wynalazcą gadżetów i urządzeń, które zmienią świat jego narodzin.
+		<desc>Z dwiema zdrowymi rękami i pasją do techniki NAME miał ambicję zostać wynalazcą gadżetów i urządzeń, które zmienią świat, na którym się urodził.
 		
-Po kilku, czasem katastrofalnych porażkach, porzucił swoje marzenie i zatrudnił się na stanowisku bardziej odpowiednim dla jego poziomu umiejętności.
-</desc>
+Po kilku - czasem katastrofalnych - porażkach porzucił swoje marzenie i zatrudnił się na stanowisku bardziej odpowiednim dla jego umiejętności.</desc>
 	</ToasterRepairman81>
 	<WolfPackMember79>
 		<title>Członek watahy</title>
-		<titleShort>Dzikus/titleShort>
+		<titleShort>Dzikus</titleShort>
 		<desc>Rodzina NAME wyrzekła się HIS. Wychowany prez wilki, ścigał, polował i bronił swojego stada. 
 
-HECAP nauczył się skutecznie walczyć zębami i pazurami, poznał też brutalnie skuteczne, pierwotne strategie polowania.</desc>
+Nauczył się skutecznie walczyć za pomocą zębów i pazurów. Poznał też brutalnie skuteczne pierwotne strategie polowania.</desc>
 	</WolfPackMember79>
 	<BehaviourResearch99>
 		<title>Behawiorysta</title>
 		<titleShort>Naukowiec</titleShort>
-		<desc>Schwytany jako dzikie dziecko, NAME został siłą przywrócony na łono społeczeństwa. Szybko zaadaptował się i został baddaczem behawioryzmu, ostatecznie dorabiając się własnej placówki naukowej.
+		<desc>Schwytany jako dzikie dziecko, NAME został siłą przywrócony na łono społeczeństwa. Szybko się zaadaptował i został baddaczem behawioryzmu, ostatecznie dorabiając się własnej placówki naukowej.
 	
-
-HECAP specjalizował się w psowatych, jednak posiadał szeroką wiedzę o wszystkich zwierzętach, Nigdy jednakże nie interesowały go rośliny.</desc>
+Specjalizował się HE w psowatych, jednak posiadał szeroką wiedzę na temat wszystkich zwierząt. Nigdy jednak nie interesowały HIM rośliny.</desc>
 	</BehaviourResearch99>
 <Cadet99>
 		<title>Kadet</title>
 		<titleShort>Kadet</titleShort>
-		<desc>NAME urodził się na planecie Nowe Chiny, HIS ojciec był dowódcą policji i miał baczne oko na wychowanie swojego dziecka.
+		<desc>NAME urodził się na planecie Nowe Chiny. HIS ojciec był dowódcą policji i miał baczne oko na wychowanie swojego dziecka.
 		
-NAME musiał ćwiczyć musztrę codziennie, HIS pokój musiał być utrzymany w nienagannej czystości, zawsze przygotowany do ispekcji. HECAP zaczął brzydzić się przemocą.</desc>
+NAME musiał codziennie ćwiczyć musztrę i utrzymywać swój pokój w nienagannej czystości, zawsze przygotowany do ispekcji. HECAP zaczął brzydzić się przemocą.</desc>
 	</Cadet99>
 	<Flaneur73>
 		<title>Spacerowicz</title>
 		<titleShort>Spacerowicz</titleShort>
-		<desc>NAME włóczył się po trutuarach i kawiarniach HIS świata, pił życie małymi łyczkami , cały czas podążając za prawdziwą wolnością, do nieczego się nie przywiązując.
+		<desc>NAME włóczył się po tortuarach i kawiarniach swojego świata, popijając życie małymi łyczkami i cały czas podążając za prawdziwą wolnością, do niczego się nie przywiązując.
 
-Przez cały ten czas pozostawał w nieufności w stosunku do innych ludzi. I nigdy nie przyjmował od nikogo rozkazów.</desc>
+Przez cały ten czas pozostawał nieufny w stosunku do innych ludzi. I nigdy nie przyjmował od nikogo rozkazów.</desc>
 	</Flaneur73>
 	<ShipTechnician62><!-- possible gender specyfic backstory (female) !-->
-		<title>Technik pokładowy</title><
+		<title>Technik pokładowy</title>
 		<titleShort>Technik</titleShort>   
-		<desc>NAME odbywała przysposobienie do służby na stanowisku technika pokładowego na statkach handlowych kursującyh między planetami i stacjami jej rodzinnego systemu. W swojej pracy nauczyła się serwisowania i udoskonalania wielu typów maszyn. In this job, she learned to fix and improve many machines.
+		<desc>NAME odbywała praktykę do służby na stanowisku technika pokładowego na statkach handlowych kursującyh między planetami i stacjami jej rodzinnego systemu. W swojej pracy nauczyła się serwisowania i udoskonalania wielu typów maszyn.
+			
 Czasami jej statek był delegowany do krótkich wypadów eksploracyjnych w niebezpiecznych sektorach przestrzeni kosmicznej.</desc>
 	</ShipTechnician62>
 	<ChiefEngineer74>
