@@ -2975,7 +2975,7 @@ NAME musiał codziennie ćwiczyć musztrę i utrzymywać swój pokój w nienagan
 
 Przez cały ten czas pozostawał nieufny w stosunku do innych ludzi. I nigdy nie przyjmował od nikogo rozkazów.</desc>
 	</Flaneur73>
-	<ShipTechnician62><!-- possible gender specyfic backstory (female) !-->
+	<ShipTechnician62><!-- possible gender specific backstory (female) !-->
 		<title>Technik pokładowy</title>
 		<titleShort>Technik</titleShort>   
 		<desc>NAME odbywała praktykę do służby na stanowisku technika pokładowego na statkach handlowych kursującyh między planetami i stacjami jej rodzinnego systemu. W swojej pracy nauczyła się serwisowania i udoskonalania wielu typów maszyn.
@@ -2992,46 +2992,44 @@ Jeśli chodzi o pewne podstawowe potrzeby życiowe, polegała na innych członka
 	<BlacksmithsSon72>
 		<title>Syn kowala</title>
 		<titleShort>Kowal</titleShort>
-		<desc>HESCAP ojciec posiadał warsztat kowalski w starej, podupadłej dzielnicy miasta. NAME starał się pomagać ojcu w pracy, jak tylko potrafił.
+		<desc>HISCAP ojciec posiadał warsztat kowalski w starej, podupadłej dzielnicy miasta. NAME starał się mu pomagać w pracy, kiedy tylko mógł.
 		
-Później HIS ojciec wziął HIM na czeladnika, i nauczył bycia porządnym człowiekiem. NAME także siedzi w strzelectwie, hobbistycznie..</desc>
+Później ojciec wziął HIM na czeladnika i wychowywał na porządnego mężczyznę. NAME hobbystycznie uprawia także strzelectwo.</desc>
 	</BlacksmithsSon72>
 	<BlacksmithShooter88>
-		<title>Blacksmith shooter</title>
+		<title>Kowal</title><!--Blacksmith shooter - do pomyślenia-->
 		<titleShort>Rusznikarz</titleShort>
-		<desc>Kiedy NAME był młodym kowalem, HIS rodzinny watsztat został zaatakowany przez policję. HECAP potrzelił dwóch funkcjonariuszy, zanim został obezwładniony i aresztowany.
+		<desc>Kiedy NAME był młodym kowalem, HIS rodzinny watsztat został zaatakowany przez policję. Potrzelił HE dwóch funkcjonariuszy, zanim został obezwładniony i zaaresztowany.
 
-Skazany na dożywotnie więzienie, NAME słuchał historii o podróżach i napadach od innnych kryminalistów.</desc>
+Skazany na dożywotnie więzienie, NAME słuchał historii innnych kryminalistów o podróżach i napadach.</desc>
 	</BlacksmithShooter88>
 	<JoywireAddict71>
 		<title>Uzależniony od implantu szczęścia</title>
 		<titleShort>Uzależniony</titleShort>
-		<desc>Dzięki bogatym rodzicom NAME miał wszystko, czego dusza zapragnie. Kiedy dowiedział się o istnieniu implantów szczęścia, dostał obsesji na ich punkcie. Kiedy HIS rodzice odkryli co się stało, odcięli HIM od funduszy.
+		<desc>Dzięki bogatym rodzicom NAME miał wszystko, czego dusza zapragnie. Kiedy dowiedział się o istnieniu implantów szczęścia, dostał obsesji na ich punkcie. Gdy HIS rodzice odkryli, co się stało, odcięli HIM od funduszy.
 
-Jeśli tylko HIS nowy implant potrzebuje update'ów, lub ulegnie usterce, NAME, z nieczułą bezwzględnością znajdzie sposób, by temu zaradzić.</desc>
+Jeśli tylko HIS nowy implant potrzebujeaktualizacji lub ulegnie usterce, NAME za wszelką cenę znajdzie sposób, by temu zaradzić.</desc>
 	</JoywireAddict71>
 	<AddictionCounsel61>
-		<title>Doradca uzależnień</title>
-		<titleShort>Doradca</titleShort>
-		<desc>Po wyjściu z uzależnienia od implantu szczęścia, NAME postanowił wieść życie bez przemocy, oraz poprzysiągł pomagać innym.
+		<title>Psycholog uzależnień</title>
+		<titleShort>Psycholog</titleShort>
+		<desc>Po wyjściu z uzależnienia od implantu szczęścia NAME postanowił wieść życie bez przemocy oraz poprzysiągł pomagać innym.
 		
-Podróżuje HE między społecznościami i prowadzi terapię za pomocą medycyny, sztuki oraz rzemiosła, by pomóc innym, którzy zmagają się z swoimi uzależnieniami.</desc>
+Podróżuje HE między społecznościami i prowadzi terapie za pomocą medycyny, sztuki oraz rzemiosła, by pomóc tym, którzy zmagają się ze swoimi uzależnieniami.</desc>
 	</AddictionCounsel61>
-<WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
+<WastelandWanderer2><!-- westwinnd: possible gender specific backstory (male) !-->
 		<title>Przemierzający pustkowie</title>
 		<titleShort>Wędrowiec</titleShort>
-		<desc>Born into a wealthy family on a desert world, NAME was cast out after a hired attack squad destroyed his ancestral home.
-NAME urodził się w bogatej rodzinie na pustynnym świecie, ale sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
+		<desc>NAME urodził się w bogatej rodzinie na pustynnym świecie, ale sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
 
 Chłopcu udało się ukryć w kanałach klimatyzacyjnych przebiegających pod rodzinną posiadłością. Poprzysięgając zemstę na mordercach i zleceniodawcy, kimkolwiek by nie był, Lucas samotnie wyruszył na pustkowie.</desc>
-	</WastelandWanderer2><!-- westwinnd: possible gender specyfic backstory (male) !-->
+	</WastelandWanderer2><!-- westwinnd: possible gender specific backstory (male) !-->
 	<VoidspaceRaider8>
 		<title>Międzygwiezdny najeźdzca</title>
 		<titleShort>Najeźdzca</titleShort>
-		<desc>After years of seeking the assassin that broke up his family, NAME was offered a place with a group of space-faring raiders. He accepted, hoping to find the killer he sought.
-Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, zaproponowano HIM członkostwo w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystaje, w nadziei na odnalezienie poszukiwanego.
+		<desc>Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, NAME otrzymał propozycję członkostwa w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystał na nią w nadziei na odnalezienie mordercy, którego szukał.
 
-Z powodu bezgranicznych, zdaje się, umiejętności ucieczki przed zagrożeniem w ostatniej chwili, przechrzczono HIM 'Blackjack', w uznaniu HIS szczęścia.</desc>
+Z powodu - zdawałoby się - bezgranicznych umiejętności ucieczki przed zagrożeniem w ostatniej chwili, otrzymał przezwisko "Blackjack", w uznaniu HIS szczęścia.</desc>
 	</VoidspaceRaider8>-->
 	<PyroAssistant17>
 		<title>Pomocnik-piroman</title>
@@ -3043,9 +3041,9 @@ Zawsze trochę HIM ciągnęło do ognia, lecz po pewnym nieszczęśliwym wydarze
 	<MachineFixer97>
 		<title>Serwisant maszyn</title>
 		<titleShort>Serwisant</titleShort>
-		<desc>NAME jest adeptem w rozwiązywaniu problemów związanych z mechaniką, tak długo, jak długo problemy nie są związane z kuchnią.
+		<desc>NAME jest adeptem w rozwiązywaniu problemów związanych z mechaniką, przynajmniej dopóki nie dotyczą one kuchni.
 		
-Życie, spędzone wśród niebezpiecznej maszynerii i łatwopalnych chemikaliów nauczyło HIM, jak całkiem nieźle poskładać siebie do kupy. Pomimo bólu, ogień nadal jest tym, co NAME wciąż lubi.</desc>
+Życie spędzone wśród niebezpiecznej maszynerii i łatwopalnych chemikaliów nauczyło HIM również, jak całkiem nieźle poskładać siebie do kupy. Pomimo bólu, ogień nadal jest tym, co wciąż lubi.</desc>
  </MachineFixer97>-->
 	<StreetUrchin39>
 		<title>Uliczny łobuz</title>
@@ -3081,28 +3079,28 @@ Wybierając działanie w pojedynkę, NAME doceniał dreszczyk, który towarzyszy
 	<DrugLieutenant88>
 		<title>Narkotykowy porucznik</title>
 		<titleShort>Drugman</titleShort>
-		<desc>NAME zajmował się handlem narkotykami pod zwierzchnictwem Grady Loughman. HIS ludzie pod HIM rozkazem sprzedawali narkotyki, kiedy było to zyskowne, i walczyli z innymi kartelami, gdy przyszły agencje rządowe.
+		<desc>NAME zajmował się handlem narkotykami pod zwierzchnictwem Gradyego Loughmana. HIS ludzie sprzedawali narkotyki, kiedy było to zyskowne, i walczyli z innymi kartelami, gdy pojawiały się agencje rządowe.
 		
-HIS zdolności socjotechniczne utrzymywały HIM na czele politycznych rozgrywek, i zawsze był ktoś, do kogo należało gotowanie i sprzątanie.</desc>
+HIS zdolności socjotechniczne utrzymywały HIM na czele politycznych rozgrywek i zawsze miał kogoś, kto sprzątał i gotował.</desc>
 	</DrugLieutenant88>
-	<LaborCampOrphan93>
+	<LaborCampOrphan93><!-- possible gender specific backstory (female) !-->
 		<title>Sierota z obozu pracy</title>
 		<titleShort>Sierota</titleShort>
-		<desc>NAME stracił rodziców w wypadku przemysłowym i dorastał w obozie pracy dla sierot. Nadzorcy obozu stosowali kary bezlitośnie - ale przynajmniej było co jeść i w co się ubrać.</desc>
+		<desc>NAME straciła rodziców w wypadku przemysłowym i dorastała w obozie pracy dla sierot. Nadzorcy obozu stosowali kary bezlitośnie - ale przynajmniej było co jeść i w co się ubrać.</desc>
 	</LaborCampOrphan93>
-	<UrbworldEnforcer55><!-- possible gender specyfic backstory (female) !-->
+	<UrbworldEnforcer55><!-- possible gender specific backstory (female) !-->
 		<title>Urbworldzki prokurator</title>
 		<titleShort>Prokurator</titleShort>
 		<desc>NAME zajmowała się egzekwowaniem prawa na jednym ze starożytnych urbworldów.
 
-Zetknęła się z najgorszymi cechami ludzkiej natury, podczas protekcji chciwej arystokracji z iglicowych zamków oraz wykorzeniania sekt kanibali w najgłębszych zakamarkach podziemnych osad ludzkich.</desc>
-	</UrbworldEnforcer55>-->
+Zetknęła się z najgorszymi cechami ludzkiej natury, od protekcji chciwej arystokracji w ich iglicowych zamkach do wykorzeniania kanibalistycznych sekt w najgłębszych zakamarkach podziemnych osad ludzkich.</desc>
+	</UrbworldEnforcer55>
 	<GameFanatic49>
 		<title>Fanatyczny gracz</title>
 		<titleShort>Gracz</titleShort>
 		<desc>NAME to fanatyczny gracz, który nauczył się sztuki przetrwania w systemach wirtualnej rzeczywistości.
 
-Pewnego razu, podczas dowodzenia swoich zdolności w rzeczywistym świecie, został porwany przez kryminalnego naukowca i poddany serii eksperymentów. Zdołał uciec, jednak to doświadczenie wpłynęło na HIS życie.</desc>
+Pewnego razu, podczas dowodzenia swoich zdolności w rzeczywistym świecie, został porwany przez kryminalnego naukowca i poddany serii eksperymentów. Zdołał uciec, jednak to doświadczenie wpłynęło na całe HIS życie.</desc>
 	</GameFanatic49>
 	<ToolMechanic40>
 		<title>Mechanik narzędziowy</title>
@@ -3207,12 +3205,12 @@ Niestety, monotonna praca całkowicie pozbawiła HIM jakiejkolwiek kreatywności
 	</CorporateBuilder80>
 	<UrbworldUrchin35>
 		<title>Urbworldzki łobuz</title>
-		<titleShort>Ulicznik/titleShort>
+		<titleShort>Ulicznik</titleShort>
 		<desc>Porzucony pośród brudnych betonowych iglic, NAME nigdy nie poznał swoich rodziców. Nigdy też nie otrzymał formalnej edukacji i często sytuacja zmuształa go do podjęcia prostej pracy w zamian za pożywienie. Czasami by przetrwać, uciekał się HE do oszustw, zdrady i kradzieży.</desc>
 	</UrbworldUrchin35>
 	<VoidRaider31>
 		<title>Międzygwiezdny najeźdzca</title>
-		<titleShort>Najeźdzca/titleShort>
+		<titleShort>Najeźdzca</titleShort>
 		<desc>Pragnąc przygody i sławy, NAME stawił czoła międzygwiezdnej pustce razem ze swoją bandą, przyrzekając lojalność jej oraz swoim braciom w broni, i rozpowszechniał ich chwałę wśród gwiazd z mieczem i pistoletem w dłoni.</desc>
 	</VoidRaider31>
 	<FallenOfficial20>
@@ -3232,7 +3230,7 @@ Wyrzocono HIM z niego za postrzelenie oficera. Nigdy nie ustalono, czy był to w
 		<titleShort>Chief</titleShort>
 		<desc>NAME kierował niewielkim klanem kryminalnyhm na jednym z satelickich światów przeładunkowych.</desc>
 	</ClanChief70>
-<PoorKid76><!-- possible gender specyfic backstory (male) !-->
+<PoorKid76><!-- possible gender specific backstory (male) !-->
 		<title>Biedne dziecko</title>
 		<titleShort>Biedne dziecko</titleShort>
 		<desc>Opuszczony przez rodziców, NAME nauczył się jak samodzielnie przetrwać przed ukończeniem dziesiątego roku życia.</desc>
@@ -3242,12 +3240,12 @@ Wyrzocono HIM z niego za postrzelenie oficera. Nigdy nie ustalono, czy był to w
 		<titleShort>Wojownik</titleShort>
 		<desc>NAME został bohaterem podczas III wojny światowej na HIS ojczystym świecie. HECAP pomógł zatrzymać strony konfliktu przed użyciem broni nuklearnej w krytycznym momencie impasu.</desc>
 	</Warrior43>
-	<KidScientist80><!-- possible gender specyfic backstory (female) !-->
+	<KidScientist80><!-- possible gender specific backstory (female) !-->
 		<title>Mały naukowiec</title>
 		<titleShort>Naukowiec</titleShort>
 		<desc>Urodzona we wpływowej rodzinie, NAME otrzymała najlepsze wykształcenie, za jakie można było zapłacić. Jej inteligencja szybko zdominowała otoczenie. Jakkolwiek, przez wrodzony deficyt empatii szybko popadła w konflit zarówno z kadrą nauczycielską, jak i rodzicami.</desc>
 	</KidScientist80>
-	<MadScientist65><!-- possible gender specyfic backstory (female) !-->
+	<MadScientist65><!-- possible gender specific backstory (female) !-->
 		<title>Szalony naukowiec</title>
 		<titleShort>Naukowiec</titleShort>
 		<desc>Po zakończeniu edukacji, NAME została zatrudniona przez planetarnego lidera badań genetycznych. Później, przyłapano ją prowadzeniu nielegalnych, nieludzkich eksperymentów.
@@ -3283,7 +3281,8 @@ Gdy później zbuntował się przeciw swojej nie-ludzkiej Pani, SI w odwecie, wy
 		<titleShort>Farmer</titleShort>
 		<desc>Od kiedy NAME nauczył się chodzić, pomagał doglądać upraw i paść zwierzęta, którymi zajmował się HIS lud w suchym środowisku ojczystego świata. From the time NAME could walk, HE helped take care of the animals and crops that HIS people tended in their arid homeland.
 		
-Ciężka praca wzmogła HIS wytrwałość, ale zostawiła HIM niewiele czasu na zajęcia intelektualne.</DustyFarmHand63>
+Ciężka praca wzmogła HIS wytrwałość, ale zostawiła HIM niewiele czasu na zajęcia intelektualne.</desc>
+	</DustyFarmHand63>
 	<DromedaryKnight31>
 		<title>Dromedary knight</title>
 		<titleShort>Knight</titleShort>
@@ -3292,7 +3291,7 @@ Ciężka praca wzmogła HIS wytrwałość, ale zostawiła HIM niewiele czasu na 
 Zawsze z wielbłądem u boku, niosącym HIS ekwipunek, NAME wiernie i lojalnie służył piaskowemu ludowi.</desc>
 	</DromedaryKnight31>
 	<PlagueChild8>
-		<title>Dziecko plagi/title>
+		<title>Dziecko plagi</title>
 		<titleShort>Dziecko</titleShort>
 		<desc>NAME urodził się na świecie spustoszonym przez zarazę. Oboje HIS rodziców było lekarzami.
 Kierując się przysięgą Hipokratesa, wychowano HIM w izolacji od plagi. HIS kontakty społeczne bywały sporadyczne. Jednak zdobył za to mnóstwo doświadczeń związanych z medycyną, asystując przy procedurach leczniczych.</desc>
@@ -3317,14 +3316,14 @@ Deciding that the best way to gain power was to climb the ranks of the imperial 
 		
 Otrzymał jedno z najbardziej wyzywających zadań - podbój odległych i nieznanych światów rubieży. Takie zwycięstwo może nawet wynieść HIM na potencjalnego sukcesora tronu Imperium.</desc>
 	</ImperialGeneral31>
-	<FarmersSon51><!-- westwinnd: possible gender specyfic backstory (male) !-->
+	<FarmersSon51><!-- westwinnd: possible gender specific backstory (male) !-->
 		<title>Syn farmera</title>
 		<titleShort>Farmer</titleShort>
 		<desc>Ade spędził większość dzieciństwa na poznawaniu niuansów agrobiologii. W HIS klimacie prowadzono hodowlę wstępną, by określić, który gatunek poradzi sobie najlepiej w obcym ekosystemie.
 		
 Z tego powodu, oraz ograniczeń podróży i systemu reglamentacji tlenu, rzadko spotykał ludzi spoza rodziny.</desc>
 	</FarmersSon51>
-	<RebelFighter79><!-- westwinnd: possible gender specyfic backstory (male) !-->
+	<RebelFighter79><!-- westwinnd: possible gender specific backstory (male) !-->
 		<title>Wojownik rebelii</title>
 		<titleShort>Rebeliant</titleShort>
 		<desc>Gdy wybuchła wojna domowa, Ade nie opowiedział się po niczyjej stronie, dopóki HIS obszar nie spłonął podczas nalotów bojówek lojalistów.
@@ -3383,7 +3382,7 @@ Kochał zwierzęta, ale HIS rodzice nigdy zgodzili się na żadne, więc bawił 
 	</SpoiledChild65>
 	<CosmeticSurgeon52>
 		<title>Chirurg kosmetyczy</title>
-		<titleShort>Chirurg/titleShort>
+		<titleShort>Chirurg</titleShort>
 		<desc>NAME był szortski w obyciu z pacjentami, często namawiał ich na operacje kosmetyczne. Zarobił w ten sposób mnóstwo pieniędzy. 
 
 W pracy był skrupulatny i uważny, choć nigdy nie przyłożył ręki do prac domowych.</desc>
