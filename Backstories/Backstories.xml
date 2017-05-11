@@ -3023,8 +3023,8 @@ Podróżuje HE między społecznościami i prowadzi terapie za pomocą medycyny,
 		<desc>NAME urodził się w bogatej rodzinie na pustynnym świecie, ale sielanka dobiegła końca, kiedy wynajęty oddział zniszczył domostwo jego przodków.
 
 Chłopcu udało się ukryć w kanałach klimatyzacyjnych przebiegających pod rodzinną posiadłością. Poprzysięgając zemstę na mordercach i zleceniodawcy, kimkolwiek by nie był, Lucas samotnie wyruszył na pustkowie.</desc>
-	</WastelandWanderer2><!-- westwinnd: possible gender specific backstory (male) !-->
-	<VoidspaceRaider8>
+	</WastelandWanderer2>
+	<VoidspaceRaider8><!-- westwinnd: possible gender specific backstory (male) !-->
 		<title>Międzygwiezdny najeźdzca</title>
 		<titleShort>Najeźdzca</titleShort>
 		<desc>Po latach poszukiwań zabójcy, który zniszczył jego rodzinę, NAME otrzymał propozycję członkostwa w grupie najeźdzców działającej w obszarach kosmicznej pustki. NAME przystał na nią w nadziei na odnalezienie mordercy, którego szukał.
@@ -3206,34 +3206,36 @@ Niestety, monotonna praca całkowicie pozbawiła HIM jakiejkolwiek kreatywności
 	<UrbworldUrchin35>
 		<title>Urbworldzki łobuz</title>
 		<titleShort>Ulicznik</titleShort>
-		<desc>Porzucony pośród brudnych betonowych iglic, NAME nigdy nie poznał swoich rodziców. Nigdy też nie otrzymał formalnej edukacji i często sytuacja zmuształa go do podjęcia prostej pracy w zamian za pożywienie. Czasami by przetrwać, uciekał się HE do oszustw, zdrady i kradzieży.</desc>
+		<desc>Porzucony pośród brudnych, betonowych iglic, NAME nigdy nie poznał swoich rodziców. Nigdy też nie otrzymał formalnej edukacji, a życie często zmuszało HIM do podjęcia prostej pracy w zamian za pożywienie. Czasami, by przetrwać, uciekał się HE do oszustw, zdrady i kradzieży.</desc>
 	</UrbworldUrchin35>
 	<VoidRaider31>
 		<title>Międzygwiezdny najeźdzca</title>
 		<titleShort>Najeźdzca</titleShort>
-		<desc>Pragnąc przygody i sławy, NAME stawił czoła międzygwiezdnej pustce razem ze swoją bandą, przyrzekając lojalność jej oraz swoim braciom w broni, i rozpowszechniał ich chwałę wśród gwiazd z mieczem i pistoletem w dłoni.</desc>
+		<desc>Pragnąc przygody i sławy, NAME stawił czoła międzygwiezdnej pustce razem ze swoją grupą, przyrzekając lojalność jej oraz braciom w broni, i rozpowszechniał jej chwałę wśród gwiazd z mieczem i pistoletem w dłoni.</desc>
 	</VoidRaider31>
 	<FallenOfficial20>
 		<title>Upadły urzędnik</title>
 		<titleShort>Urzędnik</titleShort>
 		<desc>NAME był przedstawicielem autokratycznego rządu.
-		Gdy HIS przełożeni zaczęli wymagać, by partycypował w zbrodniczych działaniach, NAME złożył urząd i uciekł z rodzinnej planety mając ze sobą jedynie swój garnitur.</desc>
+
+Gdy HIS przełożeni zaczęli wymagać, by uczestniczył w zbrodniczych działaniach, złożył urząd i uciekł z rodzinnej planety, mając ze sobą jedynie swój garnitur.</desc>
 	</FallenOfficial20>
 	<MarineCadet8>
 		<title>Kadet marine</title>
 		<titleShort>Kadet</titleShort>
 		<desc>NAME uczestniczył w programie kadetów planetarnych marines.
-Wyrzocono HIM z niego za postrzelenie oficera. Nigdy nie ustalono, czy był to wypadek.</desc>
+	
+Wyrzocono HIM za postrzelenie oficera. Nigdy nie ustalono, czy był to wypadek.</desc>
 	</MarineCadet8>
 	<ClanChief70>
 		<title>Szef klanu</title>
 		<titleShort>Chief</titleShort>
-		<desc>NAME kierował niewielkim klanem kryminalnyhm na jednym z satelickich światów przeładunkowych.</desc>
+		<desc>NAME kierował niewielkim klanem kryminalnym na jednym z satelickich światów przeładunkowych.</desc>
 	</ClanChief70>
-<PoorKid76><!-- possible gender specific backstory (male) !-->
+	<PoorKid76><!-- possible gender specific backstory (male) !-->
 		<title>Biedne dziecko</title>
 		<titleShort>Biedne dziecko</titleShort>
-		<desc>Opuszczony przez rodziców, NAME nauczył się jak samodzielnie przetrwać przed ukończeniem dziesiątego roku życia.</desc>
+		<desc>Opuszczony przez rodziców, NAME nauczył się, jak samodzielnie przetrwać, przed ukończeniem dziesiątego roku życia.</desc>
 	</PoorKid76>
 	<Warrior43>
 		<title>Wojownik</title>
