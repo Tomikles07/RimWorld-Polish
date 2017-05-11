@@ -68,7 +68,7 @@
 
 	<NoCryptosleepCasket>Brak wolnych kapsuł hibernacyjnych.</NoCryptosleepCasket>
 	<NoPrisonerBed>Nie ma wydzielonych pomieszczeń z łóżkami przeznaczonymi dla więźniów.</NoPrisonerBed>
-	<NoNonPrisonerBed>Nie ma wolnych łóżek dla nie-więźniów.</NoNonPrisonerBed>
+	<NoNonPrisonerBed>Nie ma wolnych łóżek dla osób niebędących więźniami.</NoNonPrisonerBed>
 	<NoAnimalBed>Brak zwierzęcych legowisk.</NoAnimalBed>
 	<Reserved>zarezerwowane przez kogoś innego.</Reserved>
 	<ReservedBy>zarezerwowane przez {0}</ReservedBy>
