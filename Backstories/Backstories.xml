@@ -3240,30 +3240,33 @@ Wyrzocono HIM za postrzelenie oficera. Nigdy nie ustalono, czy był to wypadek.<
 	<Warrior43>
 		<title>Wojownik</title>
 		<titleShort>Wojownik</titleShort>
-		<desc>NAME został bohaterem podczas III wojny światowej na HIS ojczystym świecie. HECAP pomógł zatrzymać strony konfliktu przed użyciem broni nuklearnej w krytycznym momencie impasu.</desc>
+		<desc>NAME został bohaterem podczas III wojny światowej na HIS ojczystym świecie. HECAP pomógł zapobiec użyciu broni nuklearnej w krytycznym momencie impasu.</desc>
 	</Warrior43>
 	<KidScientist80><!-- possible gender specific backstory (female) !-->
 		<title>Mały naukowiec</title>
 		<titleShort>Naukowiec</titleShort>
-		<desc>Urodzona we wpływowej rodzinie, NAME otrzymała najlepsze wykształcenie, za jakie można było zapłacić. Jej inteligencja szybko zdominowała otoczenie. Jakkolwiek, przez wrodzony deficyt empatii szybko popadła w konflit zarówno z kadrą nauczycielską, jak i rodzicami.</desc>
+		<desc>Urodzona we wpływowej rodzinie, NAME otrzymała najlepsze wykształcenie, które można było kupić. Jej inteligencja szybko zdominowała otoczenie. Jednakże, przez brak empatii szybko popadła w konflikt zarówno z kadrą nauczycielską, jak i rodzicami.</desc>
 	</KidScientist80>
 	<MadScientist65><!-- possible gender specific backstory (female) !-->
 		<title>Szalony naukowiec</title>
 		<titleShort>Naukowiec</titleShort>
-		<desc>Po zakończeniu edukacji, NAME została zatrudniona przez planetarnego lidera badań genetycznych. Później, przyłapano ją prowadzeniu nielegalnych, nieludzkich eksperymentów.
-Pomimo tego, że HIS rodzina próbowała interweniować, została osądzona i skazana na ciężkie prace w kolonii karnej.</desc>
+		<desc>Po zakończeniu edukacji NAME została zatrudniona przez planetarnego lidera badań genetycznych. Później przyłapano ją na prowadzeniu nielegalnych, nieludzkich eksperymentów.
+			
+Pomimo wpływów jej rodziny, została osądzona i skazana na ciężkie prace w kolonii karnej.</desc>
 	</MadScientist65>
-	<!--YouthSoldier75>
-		<title>Youth soldier</title>
-		<titleShort>Soldier</titleShort>
-		<desc>Born to a long line of soldiers, NAME joined a military training program.
-HECAP excelled in physical training, and even passed most of the intellectual exams. While HE was never particularly bright or nimble, NAME learned the value of hard work and suffering.</desc>
-	</YouthSoldier75-->
+	<YouthSoldier75>
+		<title>Młody żołnierz</title>
+		<titleShort>Żołnierz</titleShort>
+		<desc>Urodzony z długiej linii żołnierzy, NAME dołączył do militarnego programu treningowego.
+			
+Doskonalił się w treningu fizycznym, udało mu się też zdać większość egzaminów intelektualnych. Choć nigdy nie był szczególnie inteligentny ani bystry, poznał wartość ciężkiej pracy i cierpienia.</desc>
+	</YouthSoldier75>
 	<SpaceMarine48>
 		<title>Kosmiczny marine</title>
 		<titleShort>Marine</titleShort>
 		<desc>NAME był wojownikiem w marynarce Imperium.
-HISCAP specjalność to brawurowy abordaż, eliminacja załogi i przechwycenie nietkniętego statku kosmicznego. I był w tym dobry.</desc>
+			
+Zajmował się dostawaniem na wrogie statki kosmiczne, eliminacją załogi i przechwytywaniem nietkniętych okrętów. I był w tym dobry.</desc>
 	</SpaceMarine48>
 	<DataDecoder25>
 		<title>Deszyfrator informacji</title> <!-- decoder / encoder !-->
