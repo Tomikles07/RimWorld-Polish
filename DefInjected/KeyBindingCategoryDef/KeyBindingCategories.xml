@@ -7,7 +7,7 @@
   <Architect.description>Opcje służące obsłudze menu Architekta.</Architect.description>
   
   <!-- EN: developer tools -->
-  <Development.label>opcje deweloperskie</Development.label>
+  <Development.label>narzędzia deweloperskie</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
   <Development.description>Opcje dla twórców i modderów. Aktywne tylko w trybie rozwoju.</Development.description>
   
