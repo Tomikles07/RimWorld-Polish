@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal chat -->
-  <AnimalChat.label>rozmowa ze zwierzakiem</AnimalChat.label>
+  <AnimalChat.label>rozmowa ze zwierzęciem</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -28,13 +28,29 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>logentry->Próbowano zacieśnić więzi z [other_nameShortIndef].</li>
-  </AnimalChat.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <AnimalChat.logRulesRecipient.rulesStrings>
-    <li>logentry->Odpowiedziano na przyjazną akcję ze strony [other_nameShortIndef].</li>
-  </AnimalChat.logRulesRecipient.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? usiadł : usiadła} obok [RECIPIENT_nameDef] i {INITIATOR_gender ? powiedział : powiedziała} do [INITIATOR_objective] o [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? zbliżył : zbliżyła} się do [RECIPIENT_nameDef] szepcząc do [INITIATOR_objective] o [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? zbliżył : zbliżyła} się do [RECIPIENT_nameDef] szepcząc do [INITIATOR_objective] o [TalkTopicAny].</li>
+    <li>tamed->wydaje uspokajające odgłosy w kierunku</li>
+    <li>tamed->oferuje powolne, przyjazne gesty do</li>
+    <li>tamed->wydaje szumiące dźwięki do</li>
+    <li>tamed->wydaje radośne klikające dźwięki do</li>
+    <li>tamed->gestem {INITIATOR_gender ? wskazał : wskazała} i {INITIATOR_gender ? podszedł : podeszła}</li>
+    <li>tamed->powoli {INITIATOR_gender ? zbliżył : zbliżyła} się</li>
+    <li>tamed->łagodnie {INITIATOR_gender ? dotykał : dotykała}</li>
+    <li>tamed->{INITIATOR_gender ? uspokoił : uspokoiła} i {INITIATOR_gender ? zachęcił : zachęciła}</li>
+    <li>tamed->{INITIATOR_gender ? dopasował : dopasowała} dech do</li>
+    <li>tamed->{INITIATOR_gender ? przyjął : przyjęła} niską postawę wobec</li>
+    <li>tamed->nie {INITIATOR_gender ? okazywał : okazywała} strachu ani złości wobec</li>
+    <li>tamed->{INITIATOR_gender ? udawał : udawała} nieuwagę przy</li>
+    <li>tamed->delikatnie {INITIATOR_gender ? nucił : nuciła} piosenkę</li>
+    <li>tamed->{INITIATOR_gender ? zaśpiewał : zaśpiewała} starą kołysankę</li>
+    <li>tamed->stanowczo, ale delikatnie {INITIATOR_gender ? dotknął : dotknęła}</li>
+    <li>tamed->{INITIATOR_gender ? pokazał : pokazała} zrelaksowany stosunek do</li>
+    <li>tamed->{INITIATOR_gender ? siedział : siedziała} cierpliwie blisko</li>
+    <li>tamed->{INITIATOR_gender ? szepnął : szepnęła} opowieść o [TalkTopicAny] do</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>  
   
   <!-- EN: nuzzle -->
   <Nuzzle.label>trącanie nosem</Nuzzle.label>
@@ -65,13 +81,31 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>logentry->Trącono nosem [other_nameShortIndef].</li>
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] potarł [INITIATOR_possessive] nosem [RECIPIENT_nameDef] [rubbedpart].</li>
+    <li>nuzzled(p=2)->INITIATOR_gender ? węszył : węszyła}</li>
+    <li>nuzzled->przytulony do</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->łagodnie</li>
+    <li>nuzzleadverb->zachęcająco</li>
+    <li>nuzzleadverb->szczęśliwie</li>
+    <li>nuzzleadverb->delikatnie</li>
+    <li>nuzzleadverb->wspierając</li>
+    <li>nuzzleadverb->lekko</li>
+    <li>nuzzleadverb->ciepło</li>
+    <li>nuzzleadverb->żałośnie</li>
+    <li>nuzzleadverb->miłośnie</li>
+    <li>nuzzleadverb->czule</li>
+    <li>rubbedpart->nogę</li>
+    <li>rubbedpart->kolano</li>
+    <li>rubbedpart->stopę</li>
+    <li>rubbedpart->łokieć</li>
+    <li>rubbedpart->biodro</li>
+    <li>rubbedpart->bark</li>
+    <li>rubbedpart->dłoń</li>
+    <li>rubbedpart->bok</li>
+    <li>rubbedpart->ramię</li>
   </Nuzzle.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <Nuzzle.logRulesRecipient.rulesStrings>
-    <li>logentry->Zwierzak [other_nameShortIndef] trącił mnie nosem.</li>
-  </Nuzzle.logRulesRecipient.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>próba oswojenia</TameAttempt.label>
@@ -93,13 +127,22 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Usiłowano oswoić [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? próbował : próbowała} oswoić [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? próbował : próbowała} sprowadzić [RECIPIENT_nameDef] pod swoją kontrolę.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? próbował : próbowała} założyć kołnierz [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] domaga się posłuszeństwa od [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? zawołał : zawołała} [RECIPIENT_nameDef], aby przeszedł do [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? próbował : próbowała} nakłonić [RECIPIENT_nameDef] do siedzenia.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? opanował : opanowała} [RECIPIENT_nameDef] ostro wydając polecenie.</li>
+    <li>r_logentry->[INITIATOR_nameDef]{INITIATOR_gender ? próbował : próbowała} utrzymać [RECIPIENT_nameDef] w miejscu.</li>
+    <li>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</li>
+    <li>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   </TameAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TameAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Spogląda [other_nameShortIndef] na próbę oswojenia mnie.</li>
-  </TameAttempt.logRulesRecipient.rulesStrings>
   
   <!-- EN: train attempt -->
   <TrainAttempt.label>próba tresury</TrainAttempt.label>
@@ -116,12 +159,16 @@
     <li>tried->attempted</li>
   -->
   <TrainAttempt.logRulesInitiator.rulesStrings>
-    <li>logentry->Wytresowano [other_nameShortIndef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] wytresowania</li>
+    <li>trained->[tried] pokazania nową sztuczkę</li>
+    <li>trained->[tried] zdyscyplinowania</li>
+    <li>trained->[tried] wyuczenia</li>
+    <li>trained->[tried] zachęcenia do opanowania nowej umiejętności</li>
+    <li>trained->{INITIATOR_gender ? zademonstrował : zademonstrowała} umiejętność</li>
+    <li>trained->zachęca do nowej odpowiedzi</li>
+    <li>tried->{INITIATOR_gender ? próbował : próbowała}</li>
+    <li>tried->{INITIATOR_gender ? podjął: podjęła} próbę</li>
   </TrainAttempt.logRulesInitiator.rulesStrings>
-  
-  <!-- UNUSED -->
-  <TrainAttempt.logRulesRecipient.rulesStrings>
-    <li>logentry->Wytresowany przez [other_nameShortIndef].</li>
-  </TrainAttempt.logRulesRecipient.rulesStrings>
   
 </LanguageData>
