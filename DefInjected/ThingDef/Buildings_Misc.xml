@@ -9,7 +9,7 @@
   <!-- EN: caravan packing spot -->
   <CaravanPackingSpot.label>miejsce załadunku karawany</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Wyznacza miejsca, w którym będą formowane karawany. Umieść to blisko swojego składowiska, żeby przyspieszyć proces załadunku karawany.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Wyznacza miejsca w którym będą formowane karawany. \nUmieść to blisko Twojego składowiska żeby przyspieszyć proces załadunku karawany.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>konsola łączności</CommsConsole.label>
@@ -24,7 +24,7 @@
   <!-- EN: firefoam popper -->
   <FirefoamPopper.label>kapsułka z pianą gaśniczą</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>Urządzenie bezpieczeństwa, kiedy wykryje ogień kapsułka pęknie uwalniając na okrągłym obszarze pianę gaśniczą. Może zostać uruchomiona ręcznie.</FirefoamPopper.description>
+  <FirefoamPopper.description>Urządzenie bezpieczeństwa, kiedy wykryje ogień kapsułka pęknie uwalniając na okrągłym obszarze pianę gaśniczą.\n\nMoże zostać uruchomiona ręcznie.</FirefoamPopper.description>
   <!-- EN: Trigger firefoam popper -->
   <FirefoamPopper.comps.CompUsable.useLabel>Rozbij kapsułkę z pianą gaśniczą</FirefoamPopper.comps.CompUsable.useLabel>
   
@@ -36,17 +36,17 @@
   <!-- EN: ground-penetrating scanner -->
   <GroundPenetratingScanner.label>geoskaner</GroundPenetratingScanner.label>
   <!-- EN: A downward-facing penetrating radar, combined with sonar and magnetic imagers, allows you to detect (but not identify) minerals buried deep under the surface. Requires a huge amount of electricity. -->
-  <GroundPenetratingScanner.description>Radar działający na zasadzie sonaru i obrazowania magnetycznego. Pozwala na wykrycie (ale nie identyfikację) złoża minerału zakopanego głęboko pod ziemią. Wymaga sporej ilości energii elektrycznej.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Radar działający na zasadzie sonaru i obrazowania magnetycznego. Pozwala na wykrycie (ale nie identyfikację) złoża minerału zakopanego głęboko pod ziemią.\nWymaga sporej ilości energii elektrycznej.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
   <LongRangeMineralScanner.label>skaner minerałów dalekiego zasięgu</LongRangeMineralScanner.label>
   <!-- EN: Can be used by researchers to detect a specific type of mineral across the planet. The time it takes to find the resource is somewhat random, and depends on researcher skill. -->
-  <LongRangeMineralScanner.description>Urządzenie obsługiwane przez naukowca, w celu wykrycia minerałów leżących na całej planecie. Czas potrzebny do wykrycia jakiegokolwiek surowca jest losowy, oraz zależny od umiejętności naukowca.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Urządzenie obsługiwane przez naukowca, w celu wykrycia minerałów leżących na całej planecie.\n\nCzas potrzebny do wykrycia jakiegokolwiek surowca jest losowy, oraz zależny od umiejętności naukowca.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
   <MarriageSpot.label>miejsce ślubów</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>Określa miejsce, w którym będą odbywać się ceremonie ślubne.</MarriageSpot.description>
+  <MarriageSpot.description>Określa miejsce w którym będą odbywać się ceremonie ślubne.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
   <MoisturePump.label>pompa wodna</MoisturePump.label>
@@ -91,6 +91,6 @@
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>monitor funkcji życiowych</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>Zwiększa jakość opatrunków medycznych, szanse na powodzenie operacji oraz prędkości narastania odporności na choroby. Musi zostać umiejscowione w pobliżu łóżka szpitalnego - nie działa z normalnymi łóżkami. Konstruowanie więcej monitorów funkcji życiowych do jednego łóżka szpitalnego nie przyniesie dodatkowego efektu.</VitalsMonitor.description>
+  <VitalsMonitor.description>Zwiększa jakość opatrunków medycznych, szanse na powodzenie operacji oraz prędkości narastania odporności na choroby.\nMusi zostać umiejscowione w pobliżu łóżka szpitalnego - nie działa z normalnymi łóżkami.\nKonstruowanie więcej monitorów funkcji życiowych do jednego łóżka szpitalnego nie przyniesie dodatkowego efektu.</VitalsMonitor.description>
   
 </LanguageData>
