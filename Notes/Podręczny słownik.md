@@ -21,7 +21,7 @@ długi łuk (Bow_Great)
 długi miecz (LongSword)  
 dozownik pasty odżywczej  
 geoskaner (GroundPenetratingScanner)
-geoskaner planetarny (<!-- EN: long-range mineral scanner -->)
+skaner minerałów dalekiego zasięgu (<!-- EN: long-range mineral scanner -->)
 gladius  
 hełm wojskowy (MilitaryHelmet)  
 hełm wspomagany (PowerArmorHelmet)  
