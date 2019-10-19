@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: crashed ship part (incoming) -->
-  <CrashedShipPartIncoming.label>TODO</CrashedShipPartIncoming.label>
+  <CrashedShipPartIncoming.label>rozbity kawałek statku (przylatuje)</CrashedShipPartIncoming.label>
   
   <!-- EN: drop pod (incoming) -->
-  <DropPodIncoming.label>TODO</DropPodIncoming.label>
+  <DropPodIncoming.label>kapsuła ratunkowa (przylatuje)</DropPodIncoming.label>
   
   <!-- EN: drop pod (leaving) -->
-  <DropPodLeaving.label>TODO</DropPodLeaving.label>
+  <DropPodLeaving.label>kapsuła ratunkowa (wylatuje)</DropPodLeaving.label>
   
   <!-- EN: meteorite (incoming) -->
-  <MeteoriteIncoming.label>TODO</MeteoriteIncoming.label>
+  <MeteoriteIncoming.label>meteoryt (przylatuje)</MeteoriteIncoming.label>
   
   <!-- EN: ship chunk (incoming) -->
-  <ShipChunkIncoming.label>TODO</ShipChunkIncoming.label>
+  <ShipChunkIncoming.label>kawałek statku (przylatuje)</ShipChunkIncoming.label>
   
 </LanguageData>
