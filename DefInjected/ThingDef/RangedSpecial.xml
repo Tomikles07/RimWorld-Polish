@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>TODO</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>Przyrząd namierzania bombardowania orbitalnego</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>TODO</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>Starożytna aparatura namierzająca dla orbitalnego systemu bombardowania. To urządzenie określa cel i przesyła koordynaty do sieci satelit, które bombardują wskazany obszar używając dział kinetycznych. Ten przyrząd został przeprogramowany w celu akceptacji nieautoryzowanych użytkowników, lecz po użyciu system wykryje penetrację osoby trzeciej i odetnie komunikację do urządzenia na zawsze.</OrbitalTargeterBombardment.description>
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>TODO</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>wkaźnik bombardowania orbitalnego</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.label>TODO</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.label>Przyrząd namierzania orbitalnej wiązki mocy</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>TODO</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>Starożytna aparatura namierzająca dla klastru satelit kondensujących energię. Kiedy cel zostanie namierzony, starożytne satelity zostaną skierowane w stronę celu, uwalniając masywną kolumnę elektromagnetycznej energii. Ta moc może zostać bezpiecznie zakumulowana przez wielkie, absorbujące energie anteny. Kiedy jednak w obszarze nie znajdują się takie anteny, a system zostanie namierzony w nieprzyjaciela, zamieni obszar w którym się znajduje w istne tysięczno-stopniowe piekło. </OrbitalTargeterPowerBeam.description>
   <!-- EN: orbital power beam targeter -->
   <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>TODO</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   

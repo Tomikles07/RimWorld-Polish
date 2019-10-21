@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>TODO</Blight.label>
+  <Blight.label>zaraza roślinna</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>TODO</Explosion.label>
+  <Explosion.label>eksplozja</Explosion.label>
   
   <!-- EN: rect trigger -->
-  <RectTrigger.label>TODO</RectTrigger.label>
+  <RectTrigger.label>wyzwalacz</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>TODO</Tornado.label>
+  <Tornado.label>trąba powietrzna</Tornado.label>
   
   <!-- EN: trigger unfogged -->
-  <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
+  <TriggerUnfogged.label>wyzwalacz</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>tunel</TunnelHiveSpawner.label>
   
 </LanguageData>
